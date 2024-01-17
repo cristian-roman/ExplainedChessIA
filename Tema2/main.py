@@ -1,7 +1,34 @@
 import chess.pgn
+#
+# with open('games.txt', 'r') as file:
+#     games_text = file.read()
+#
+# games_text.replace('\r\n', ' ')
+
+# partide = games_text.split('#')
+# nr_partida = 0
+# for partida in partide:
+#     nr_partida += 1
+#     mutari = partida.split()
+#     if len(mutari) == 0:
+#         continue
+#     with open(f'partida_{nr_partida}.pgn', 'w') as file:
+#         spatiu = 0
+#         nr_mutari = len(mutari)
+#         for i in range(0, nr_mutari - 1):
+#             mutare = mutari[i]
+#             spatiu += 1
+#             if spatiu % 2 == 1:
+#                 file.write(str(spatiu//2 + 1) + '. ' + mutare + ' ')
+#             if spatiu % 2 == 0:
+#                 file.write(mutare + ' ')
+#         file.write(mutari[-1] + '# ')
+#         if spatiu % 2 == 1:
+#             file.write('*')
+
 
 counter = dict()
-for i in range(1, 1000):
+for i in range(1, 6326):
     pgn = open(f"partida_{i}.pgn")
 
     game = chess.pgn.read_game(pgn)
