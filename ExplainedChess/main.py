@@ -1,10 +1,20 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)  # Enable CORS for all routes
 
 
-@app.route('/test', methods=['POST'])
+@app.route('/test', methods=['POST', 'OPTIONS'])
 def your_endpoint():
+    if request.method == 'OPTIONS':
+        # Respond to the OPTIONS request with the appropriate headers
+        response = jsonify({'message': 'CORS preflight request successful'})
+        response.headers.add('Access-Control-Allow-Origin', '*')
+        response.headers.add('Access-Control-Allow-Methods', 'POST')
+        response.headers.add('Access-Control-Allow-Headers', 'Content-Type')
+        return response
+
     try:
         # Access request data
         data = request.get_json()
