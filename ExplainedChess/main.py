@@ -3,14 +3,14 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 
-@app.route('/your_endpoint', methods=['POST'])
+@app.route('/test', methods=['POST'])
 def your_endpoint():
     try:
         # Access request data
         data = request.get_json()
 
         # Process the data (replace this with your own logic)
-        result = process_data(data)
+        result = process_data(data['user_input'])
 
         # Return a response
         return jsonify({'result': result}), 200
