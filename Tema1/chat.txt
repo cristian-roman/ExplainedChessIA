@@ -1,0 +1,234 @@
+hi
+hi
+Ce reprezinta en passant?
+En passant reprezinta o situatie in care 2 pioni se afla pe aceeasi line dupa ce unul dintre ei a fost mutat cu 2 patratele inainte. Pionul care a fost mutat cu 2 patratele poate fi capturat de pionul adversar ca si cum ar fi fost mutat cu un patratel inainte. Acest lucru se poate face doar in urmatoarea mutare. Daca nu se face, pionul adversar nu mai poate fi capturat in acest mod.Cum se mișcă pionul în prima mutare?Pionul se poate mișca cu unul sau două pătrățele înainte.
+Cum se misca pionul ?
+Pionul se poate misca cu un patratel inainte in mod obisnuit. Daca este prima mutare a pionului, acesta se poate misca cu doua patratele inainte. Pionul poate captura pe diagonala, cu un patratel inainte și unul la stanga sau la dreapta.
+Cum captureaza pionul?
+Pionul captureaza pe diagonala, cu un patratel inainte și unul la stanga sau la dreapta.
+Cum se misca calul?
+Calul se poate misca în forma de L, adica doua patratele inainte si una la stanga sau la  dreapta, sau una inainte si doua la stanga sau la dreapta, sau doua patratele inapoi si una la stanga sau la dreapta, sau una inapoi si doua la stanga sau la dreapta.
+Cum se misca nebunul?
+Nebunul se poate misca pe diagonala, oricat de multe patratele, atat in sus cat si în jos.
+Cum se misca tura?
+Tura se poate misca oricat de multe patratele, pe linii si coloane, atat în sus cat si în jos sau la stanga si la dreapta.
+Cum se misca regina?
+Regina se poate misca oricat de multe patratele in orice directie.
+Cum se misca regele?
+Regele se poate misca cu un patratel în orice directie.
+Cum se castiga?
+Jocul se termina atunci cand unul dintre jucatori isi pune adversarul in sah mat. Acest lucru se intampla atunci cand regele se afla intr-o pozitie de sah si nu mai are unde sa mute asa incat sa nu mai fie in sah. In acest caz, jucatorul care a pus regele advers in sah mat castiga jocul.
+Cum se termina jocul?
+Jocul se termina atunci cand unul dintre jucatori castiga sau cand se ajunge la remiza. Jocul se poate termina cu remiza in urmatoarele situatii: \n- daca ambii jucatori raman numai cu regele pe tabla de sah \n- daca unul din jucatori nu mai are unde sa mute deoarece toate mutarile posibile duc la sah (situatie cunoscuta si ca 'pat') - daca unul dintre jucatori cere remiza si adversarul accepta \n
+Ce inseamna rocada?
+Rocada este o mutare speciala in care regele si tura se muta in acelasi timp. Rocada se poate face doar daca regele si tura nu au mai fost mutate inainte, daca nu exista piese intre rege si tura, daca regele nu este in sah si daca regele nu trece prin sah. Rocada se poate face atat la stanga cat si la dreapta. In cazul rocadei la stanga, regele se muta doua patratele la stanga, iar tura se muta peste rege, adica trei patratele la dreapta. In cazul rocadei la dreapta, regele se muta doua patratele la dreapta, iar tura se muta peste rege, adica doua patratele la stanga.
+Ce este sahul?
+Sahul este o situatie in care o piesa inamica ataca regele.
+Ce inseamna ca o piesa ataca o alta piesa?
+O piesa ataca o alta piesa daca se poate muta pe pozitia acelei piese.
+Poate fi regele capturat?
+Nu, regele nu poate fi capturat. Daca regele este atacat, jucatorul trebuie sa mute regele in asa fel incat sa nu mai fie in sah. Daca nu exista nicio mutare posibila care sa scoata regele din sah, jucatorul a pierdut jocul.
+Pot sa mut calul pe diagonala?
+Nu, calul se poate muta doar in forma de L, adica doua patratele inainte si una la stanga sau la dreapta, sau una inainte si doua la stanga sau la dreapta, sau doua patratele inapoi si una la stanga sau la dreapta, sau una inapoi si doua la stanga sau la dreapta.
+Pot sa mut nebunul altfel decat pe diagonala?
+Nu, nebunul se poate muta doar pe diagonala, oricat de multe patratele, atat in sus cat si în jos.
+Ce pot face pionii?
+Pionii se pot muta cu un patratel inainte in mod obisnuit. Daca este prima mutare a pionului, acesta se poate muta cu doua patratele inainte. Pionul poate captura pe diagonala, cu un patratel inainte și unul la stanga sau la dreapta. De asemenea, pionul poate captura en passant si trebuie a promova in orice alta piesa, cu exceptia regelui si a pionului, daca ajunge la capatul tablei de sah. In acest fel mai multe piese de acest tip pot ajunge pe tabla de sah.
+Ce dimensiuni are o tabla de sah?
+O tabla de sah are dimensiunile de 8x8.
+Cati pioni sunt intr-un joc de sah?
+Un joc de sah are 16 pioni, 8 albi si 8 negri.
+Cati pioni are un jucator in sah?
+Un jucator are 8 pioni la dispozitia sa.
+Ce este sahul?
+Sahul este un joc de strategie si tactica intre doi jucatori.
+Care sunt piesele din sah si cum se misca?
+Piesele din sah sunt: regele, regina, turnul, nebunul, calul si pionii. Fiecare piesa are miscarile si regulile sale specifice in joc.
+Care este scopul final al jocului de sah?
+Scopul final al jocului de sah este sa dai sah mat adversarului tau, adica sa-i ameninti regele in așa fel încât acesta sa nu mai poata fi salvat.
+Care este diferenta dintre sah si sah mat?
+Sahul este o amenintare la adresa regelui advers, iar sahul mat este situatia în care regele advers nu poate fi salvat din amenintare si jocul se incheie.
+Cum se misca regele in sah?
+Regele se poate misca o singura pozitie in orice directie: vertical, orizontal sau diagonal.
+Ce inseamna rocada in sah?
+Rocada este o miscare speciala in care regele si unul dintre turnuri se misca simultan, avand anumite conditii de indeplinit.
+Care este valoarea in puncte a unei regine in sah?
+Valoarea unei regine in sah este de 9 puncte.
+Care este valoarea in puncte a unui cal in sah?
+Valoarea unui cal in sah este de 3 puncte.
+Care este valoarea in puncte a unui turn in sah?
+Valoarea unui turn in sah este de 5 puncte.
+Care este valoarea in puncte a unui nebun in sah?
+Valoarea unui nebun in sah este de 3 puncte.
+Care este valoarea in puncte a unui pion in sah?
+Valoarea unui pion in sah este de 1 punct.
+Ce se intampla in cazul in care un pion ajunge la capatul opus al tablei de sah?
+Un pion poate fi promovat intr-o alta piesa (de obicei, regina) atunci cand ajunge la capatul opus al tablei.
+Care sunt miscarile posibile ale unui cal in sah?
+Calul se misca in forma de "L": doua pozitii intr-o directie si una perpendiculara.
+Ce inseamna remiza in sah?
+Remiza este o situatie in care jocul se termina fara a exista un castigator clar, de exemplu, in cazul unei stari de pat sau daca jucatorii ajung la un acord in acest sens.
+Care este obiectivul deschiderii intr-o partida de sah?
+Obiectivul deschiderii este sa-ti dezvolti piesele in pozitii strategice pentru a-ti asigura o pozitie solida in joc.
+Ce reprezinta termenul "en passant" in sah?
+"En passant" este o miscare speciala a unui pion advers care se poate face imediat dupa ce un alt pion a facut o miscare de doua pozitii de la pozitia initiala.
+Cum se numeste situatia in care regele este in pericol si trebuie sa se mute pentru a evita sahul mat?
+Aceasta situatie se numeste sah descoperit.
+Care este principala diferenta dintre sah si sahul etern?
+In sahul etern, o serie de miscari repetate pot duce la remiza intr-un mod cunoscut si prevedibil.
+Care este cea mai mica piesa valorica din sah?
+Pionul este cea mai mica piesa valorica din sah, avand o valoare de 1 punct.
+Cum se termina o partida de sah prin matul pastorului?
+Matul pastorului este o secventa specifica de miscari care duc la sah mat intr-o maniera particulara, implicand folosirea regelui si a pionilor pentru a forta matul.
+Ce este un gambit în sah?
+Un gambit este o ofranda de material (de obicei pion) în schimbul unei pozitii sau a unui avantaj strategic.
+Care este numele miscarii în care regele si unul dintre turnuri se misca în timpul rocariei?
+Aceasta miscare se numeste "rocastig".
+Ce inseamna sa blocam o piesa în sah?
+Blocarea unei piese înseamna sa împiedici miscarea acelei cu o alta piesa.
+Ce este un "sah dublu" în sah?
+Un sah dublu este o situatie în care regele este amenintat simultan de doua piese adverse.
+Care este diferenta dintre matul simplu si matul forțat în sah?
+Matul simplu este acel mat care rezulta dintr-o serie de miscari corecte si strategice, în timp ce matul forțat este acel mat care este inevitabil si nu poate fi prevenit de catre adversar.
+Ce inseamna "sah mat"?
+Sah mat este situatia in care regele unui jucator este amenintat si nu poate fi salvat in urma oricarei miscari.
+Care este diferenta dintre "sah mat" si "sah si mat"?
+"Sah si mat" este o expresie folosita pentru a arata ca un jucator a dat sah si, prin urmare, va urma un mat in urma miscarii sale.
+Ce este "tabla inchisa" in sah?
+Tabla inchisa este o situatie in care pionii sunt inca pozitionati in fata pieselor mari, impiedicandu-le sa se miste liber.
+Ce inseamna "pozitie inchisa" in sah?
+O pozitie inchisa inseamna ca majoritatea liniilor de miscare sunt blocate de piesele proprii sau ale adversarului.
+Cum se numeste miscarea speciala in care regele si un turn se misca simultan?
+Aceasta miscare speciala se numeste rocada.
+Care este numele piesei din sah care se misca in forma de "L"?
+Aceasta piesa este calul.
+Ce reprezinta remiza in sah?
+Remiza este rezultatul unei partide in care niciun jucator nu poate obtine mat sau in care ambii jucatori sunt de acord cu rezultatul egal.
+Ce inseamna "en passant" in sah?
+"En passant" este o miscare speciala a unui pion care poate fi efectuata imediat dupa ce adversarul avanseaza un pion de doua patratele de la pozitia initiala.
+Care este denumirea miscarii in care regele si regina isi schimba pozitiile?
+Aceasta miscare se numeste rocada mare.
+Care este cel mai scurt șah mat posibil?
+Cel mai scurt mat posibil, numit "matul fool", are loc după doar două mișcări, de obicei într-o situație în care un jucător își expune imediat regele.
+Cum se aseaza piesele pe tabla de sah?
+Piesele se aseaza pe tabla de sah in ordinea urmatoare: tura, cal, nebun, regina, rege, nebun, cal, tura. Pionii se aseaza pe linia a doua, in fata celorlalte piese. Regina trebuie sa se afle initial pe patratul de culoarea ei. Astfel, regina alba se aseaza pe patratul alb, iar regina neagra pe patratul negru.
+Care este rolul regelui?
+Regele este cea mai importanta piesa. Acesta trebuie protejat de catre piesele sale pentru a nu fi capturat de piesele adverse, primul jucator care nu poate sa isi apere regele din a fi capturat pierzand.
+Care este scopul final al jocului?
+Scopul final al jocului este amenintarea regelui advers intr-un mod in care acesta n-ar mai putea evita sa fie capturat la mutarea urmatoare.
+Cum poate muta regele?
+Regele poate muta in orice directie: orizontala, verticala sau diagonala, dar numai un camp la fiecare mutare.In plus, acesta se poate muta doua campuri in stanga sau dreapta sa in contextul mutarii de rocada(mica sau mare).
+Are regele valoare de schimb?
+In jocul practic, deoarece regele nu poate fi schimbat, noțiunea de valoare de schimb isi pierde sensul.
+De ce regele se misca atat de greu?
+Mobilitatea limitata a regelui il obliga pe jucator sa-i acorde cea mai mare atentie, iar in acelasi timp scopul final al jocului.
+Care este valoarea atribuita regelui in programele de calcul care joaca sah?
+Valoarea atribuita regelui in programele de calcul care joaca sah este mai mare decat a tuturor pieselor adverse.
+Cum poate regele sa evite sahul?
+Regele poate evita sahul prin mutarea sa pe un camp liber unde sa nu fie atacat, prin capturarea piesei care il ataca sau prin interpunerea unei piese proprii pe directia de atac.
+Cat de puternic este regele?
+Cand participa de lupta, puterea regelui este aproximativ egala cu a unui cal, fiind, relativ fata de acesta, un pic mai slab cand vine vorba de deplasare rapida dintr-o parte in alta a tablei, respectiv un pic mai puternic cand ne referim la actionarea intr-o zona cat de cat restransa din tabla, in raport cu aceasta piesa.
+Ce se intampla daca regele nu poate evita sa fie capturat la mutarea urmatoare?
+Regele ar fi capturat, iar jocul s-ar incheia. Pierzatorul in acest caz va fi jucatorul caruia i-a fost capturat regele.
+Câte turnuri are fiecare jucător la începutul jocului și unde sunt așezate?
+Fiecare jucător are la începutul jocului două turnuri, așezate în colțurile tablei.
+Cum sunt notate în notația algebrică turnurile albe și cele negre la începutul jocului?
+În notația algebrică, turnurile albe sunt așezate pe a1 și h1, iar cele negre pe a8 și h8.
+Ce mișcări poate face turnul și câte pătrățele poate parcurge?
+Turnul poate muta pe orizontală sau pe verticală, oricâte pătrățele, atâta timp cât nu este nici unul ocupat de altă piesă.
+Cum capturează turnul o piesă adversă?
+Turnul capturează o piesă adversă care se află pe câmpul pe care mută.
+Ce mișcare specială poate face turnul împreună cu regele și cum se numește aceasta?
+Turnul poate face împreună cu regele o mutare specială numită rocadă.
+Care este poziția și rolul turnului în ierarhia pieselor la șah?
+Turnul este cea mai puternică piesă după damă.
+Câte piese poate ține în bătaie turnul din centrul tablei și din celelalte poziții?
+Din centrul tablei, turnul poate ține în bătaie 4 piese ale adversarului, de la marginea tablei 3, iar din colț două piese ale adversarului.
+Care este valoarea de schimb a turnului și cum se compară cu alte piese?
+Ca valoare de schimb, turnul valorează cât un nebun (sau cal) plus doi pioni. Echivalarea unui turn cu 5 pioni este riscantă.
+De ce echivalarea unui turn cu 5 pioni este considerată riscantă?
+Echivalarea unui turn cu 5 pioni este riscantă deoarece forțele sunt calitativ foarte diferite, iar caracteristicile poziției primează.
+Cati nebuni are fiecare jucator la inceputul jocului si unde sunt asezati?
+Fiecare jucator are la inceputul jocului doi nebuni, asezati intre unul dintre cai si rege sau dama.
+Cum sunt notati in notatia algebrica nebunii albi si cei negri la inceputul jocului?
+Nebunii albi sunt asezati la inceput pe campurile c1 si f1, iar nebunii negri pe c8 si f8.
+Ce miscari poate face nebunul si pe ce directie?
+Nebunul poate muta oricâte patratele, dar numai pe diagonala.
+De ce ramane intotdeauna amplasat nebunul pe campuri de aceeasi culoare?
+Datorita mutarii pe diagonala, un nebun ramane intotdeauna pe campuri de aceeasi culoare.
+Cum diferentiez nebunii?
+Cei doi nebuni se mai numesc si nebun de alb si nebun de negru, datorita culorii campului pe care stau la inceputul jocului.
+Care este numarul de campuri la care are acces nebunul la inceputul jocului?
+Nebunul are acces la numai 32 din campurile tablei la inceputul jocului.
+Este un nebun mai bun decat o tura?
+Nebunul este considerat mai slab decat turnul. In timp ce nebunul poate muta pe jumatate dintre campurile tablei, tura are acces la toate cele 64 de campuri ale tablei.
+Cate campuri ataca un nebun?
+Un nebun ataca intre sapte si treisprezece campuri, in functie de pozitie, in timp ce un turn pe o tabla goala ataca 14 campuri.
+Cat de buni sunt nebunii?
+Nebunii castiga in putere spre sfarsitul jocului, iar o pereche de nebuni este considerata o arma strategica datorita posibilitatii de a face multe schimburi de piese care sa duca la un final de joc avantajos. Ca valoare de schimb, nebunul valoreaza cat trei pioni.
+De ce se numeste "dama"?
+In limba romana, se prefera denumirea de "dama" in loc de "regina" pentru a permite notatia algebrica cu D, deoarece litera R este rezervata pentru rege.
+Cate dame are fiecare jucator la inceputul jocului?
+Fiecare jucator are la inceputul jocului o dama.
+Cum este indicata pozitia dameiin notatie algebrica?
+In notatia algebrica, dama alba este asezata pe d1, iar cea neagra pe d8.
+Care este culoarea campului pe care incepe dama?
+Dama alba incepe pe un camp alb, iar cea neagra pe un camp negru.Pentru a tine minte mai usor, se spune ca "dama sta pe culoarea ei"
+Cum se muta dama?
+Dama combina miscarile turnului si nebunului, putand deci sa fie mutata pe liniile, coloanele si diagonalele ce se intersecteaza cu patratul pe care se afla.
+De ce este considerata dama cea mai puternica piesa?
+Datorita mutarilor si mobilitatii sale, este considerata cea mai puternica piesa de sah.Nicio piesa nu are o versatilitate atat de mare ca aceasta in ceea ce priveste mutarile.
+Cum pot obtine o noua dama?
+Jucatorul poate obtine o alta dama prin transformarea unui pion.
+Unde sunt asezati caii la inceputul jocului?
+Caii albi sunt asezati la inceput pe campurile b1 si g1, iar caii negri pe b8 si g8.
+Cum muta calul?
+Mutarea calului este unica din doua motive. In primul rand, calul muta doua patrate pe orizontala sau verticala si apoi un patrat pe o directie perpendiculara pe cea dintai, adica in forma de L. In al doilea rand, calul sare peste piesele care se gasesc intre campul de plecare si cel de sosire.
+Ce consecinta are mutarea unui cal?
+Ca o consecinta a mutarii, calul schimba culoarea campului pe care se afla la fiecare mutare.
+Cum captureaza calul?
+Calul captureaza o piesa adversa care se afla pe campul pe care muta, si este singura piesa care poate sari peste alte piese(piesele peste care sare nu sunt capturate in acest proces).
+Cum variaza puterea calului in functie de pozitionarea sa pe tabla de sah?
+Un cal pozitionat central ataca opt campuri, in timp ce un cal la margine ataca patru, iar un cal in colt ataca doar doua.
+De ce este considerata o mutare importanta a calului sa se indrepte spre centrul tablei la inceputul jocului?
+Calul este singura piesa care poate muta la inceputul jocului, inainte sa fi fost mutat vreun pion. Vrem sa atacam(sau sa controlam) campurile din centrul tablei cat mai rapid. Din acest motiv mutarea catre centrul tablei este considerata cea mai buna in majoritatea situatiilor.
+Cum se dezvolta de obicei caii intr-o partida de sah in comparatie cu alte piese?
+Intr-o partida de sah, caii sunt dezvoltati de obicei putin mai devreme decat nebunii, si mult mai devreme decat turnurile si dama.
+Care este piesa prezenta in numar cel mai mare intr-un joc de sah?
+Pionul este cea mai des intalnita piesa pe tabla de sah, fiind 16 pe tabla la inceputul unei partide.
+Cati pioni exista pentru fiecare jucator la inceputul jocului?
+Fiecare jucator are 8 pioni la inceputul jocului.
+De ce pionii au cea mai mica valoare?
+Pionii sunt considerati cu cea mai scazuta valoare deoarece sunt adesea "sacrificati" pentru obtinerea unei pozitii superioare sau pentru mascarea unui atac ulterior.
+Cum inseamna "a sacrifica un pion"?
+Expresia "a sacrifica un pion" este folosita pentru a descrie investirea mica(in acest caz)intr-un avantaj ulterior major.
+Ce miscari pot face pionii si in ce directii?
+Pionii pot muta doar cate un camp inainte, pe verticala. Excepția este prima mutare, cand un pion poate muta doua campuri inainte.
+Ce este "en passant"?
+"En passant" este o forma speciala de capturare a unui pion de catre alt pion in conditii speciale, cand pionul atacat a fost mutat doua campuri. Daca in acest caz pionul atacat se afla in stanga sau in dreapta sa, pionul atacator poate sa il captureze, ajungand in campul din spatele pionului capturat.
+Ce se intampla la schimbarea unui pion?
+La schimbarea unui pion, jucatorul poate alege orice piesa in afara de el insusi si rege. Damele sunt preferate pentru ca sunt considerate cele mai puternice piese, dar cazuri particulare ar putea cere alta piesa.
+Cate potentiale dame ar putea avea fiecare jucator?
+Fiecare jucator are 9 potentiale daca promoveaza toti pionii, includand si dama originala.
+Cum este dispusi initial pionii intr-o partida de sah?
+Pionii albi ocupa linia a 2-a a tablei, iar cei negri ocupa linia a 7-a.
+De ce se afla piesele majore in spatele pionilor la inceputul jocului?
+Piesele majore sunt plasate in spatele pionilor pentru a fi protejate de acestia si pentru a asigura o formare solida a pozitiei in joc.
+Poate pionul muta 2 patratele ?
+Da, pionul poate muta 2 patratele in prima mutare si numai atunci.
+Este o tura mai buna decat un cal ?
+Da, din punct de vedere al valorii, o tura este mai buna decat un cal. Insa, in anumite situatii, un cal poate fi mai bun decat o tura.
+Ce este un cal?
+Calul este o piesa de sah care se poate muta in forma de L, adica doua patratele inainte si una la stanga sau la dreapta, sau una inainte si doua la stanga sau la dreapta, sau doua patratele inapoi si una la stanga sau la dreapta, sau una inapoi si doua la stanga sau la dreapta.
+Ce este un nebun ?
+Nebunul este o piesa de sah care se poate muta pe diagonala, oricat de multe patratele, atat in sus cat si în jos.
+Ce este un pion?
+Pionul este o piesa de sah care se poate muta cu un patratel inainte in mod obisnuit. Daca este prima mutare a pionului, acesta se poate muta cu doua patratele inainte. Pionul poate captura pe diagonala, cu un patratel inainte și unul la stanga sau la dreapta.
+Ce este o tura?
+Tura este o piesa de sah care se poate muta oricat de multe patratele, pe linii si coloane, atat în sus cat si în jos sau la stanga si la dreapta.
+Ce este o dama?
+Dama este o piesa de sah care combina miscarile turnului si nebunului, putand deci sa fie mutata pe liniile, coloanele si diagonalele ce se intersecteaza cu patratul pe care se afla.
+Care este cea mai puternica piesa ?
+Dama este cea mai puternica piesa de sah.
+De ce este dama cea mai puternica piesa de sah?
+Dama este cea mai puternica piesa de sah deoarece combina miscarile turnului si nebunului, putand deci sa fie mutata pe liniile, coloanele si diagonalele ce se intersecteaza cu patratul pe care se afla.
