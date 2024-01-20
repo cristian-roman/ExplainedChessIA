@@ -22,7 +22,7 @@ def process_data(data):
     # Replace this function with your own data processing logic
     # For example, you can print the data and return a simple message
     print("Received data:", data)
-    return "Data processed successfully"
+    return data
 
 
 if __name__ == '__main__':
