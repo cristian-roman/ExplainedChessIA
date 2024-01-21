@@ -1,5 +1,5 @@
-Ce reprezinta en passant?
-En passant reprezinta o situatie in care 2 pioni se afla pe aceeasi line dupa ce unul dintre ei a fost mutat cu 2 patratele inainte. Pionul care a fost mutat cu 2 patratele poate fi capturat de pionul adversar ca si cum ar fi fost mutat cu un patratel inainte. Acest lucru se poate face doar in urmatoarea mutare. Daca nu se face, pionul adversar nu mai poate fi capturat in acest mod.Cum se misca pionul in prima mutare?Pionul se poate misca cu unul sau doua patratele inainte.
+Ce reprezinta enpassant?
+Enpassant reprezinta o situatie in care 2 pioni se afla pe aceeasi line dupa ce unul dintre ei a fost mutat cu 2 patratele inainte. Pionul care a fost mutat cu 2 patratele poate fi capturat de pionul adversar ca si cum ar fi fost mutat cu un patratel inainte. Acest lucru se poate face doar in urmatoarea mutare. Daca nu se face, pionul adversar nu mai poate fi capturat in acest mod.Cum se misca pionul in prima mutare?Pionul se poate misca cu unul sau doua patratele inainte.
 Cum se misca pionul ?
 Pionul se poate misca cu un patratel inainte in mod obisnuit. Daca este prima mutare a pionului, acesta se poate misca cu doua patratele inainte. Pionul poate captura pe diagonala, cu un patratel inainte si unul la stanga sau la dreapta.
 Cum captureaza pionul?
@@ -31,7 +31,7 @@ Nu, calul se poate muta doar in forma de L, adica doua patratele inainte si una 
 Pot sa mut nebunul altfel decat pe diagonala?
 Nu, nebunul se poate muta doar pe diagonala, oricat de multe patratele, atat in sus cat si in jos.
 Ce pot face pionii?
-Pionii se pot muta cu un patratel inainte in mod obisnuit. Daca este prima mutare a pionului, acesta se poate muta cu doua patratele inainte. Pionul poate captura pe diagonala, cu un patratel inainte si unul la stanga sau la dreapta. De asemenea, pionul poate captura en passant si trebuie a promova in orice alta piesa, cu exceptia regelui si a pionului, daca ajunge la capatul tablei de sah. In acest fel mai multe piese de acest tip pot ajunge pe tabla de sah.
+Pionii se pot muta cu un patratel inainte in mod obisnuit. Daca este prima mutare a pionului, acesta se poate muta cu doua patratele inainte. Pionul poate captura pe diagonala, cu un patratel inainte si unul la stanga sau la dreapta. De asemenea, pionul poate captura enpassant si trebuie a promova in orice alta piesa, cu exceptia regelui si a pionului, daca ajunge la capatul tablei de sah. In acest fel mai multe piese de acest tip pot ajunge pe tabla de sah.
 Ce dimensiuni are o tabla de sah?
 O tabla de sah are dimensiunile de 8x8.
 Cati pioni sunt in jocul de sah?
@@ -68,8 +68,8 @@ Ce inseamna remiza in sah?
 Remiza este o situatie in care jocul se termina fara a exista un castigator clar, de exemplu, in cazul unei stari de pat sau daca jucatorii ajung la un acord in acest sens.
 Care este obiectivul deschiderii in o partida de sah?
 Obiectivul deschiderii este sa iti dezvolti piesele in pozitii strategice pentru a iti asigura o pozitie solida in joc.
-Ce reprezinta termenul "en passant" in sah?
-"En passant" este o miscare speciala a unui pion advers care se poate face imediat dupa ce un alt pion a facut o miscare de doua pozitii de la pozitia initiala.
+Ce reprezinta termenul "enpassant" in sah?
+"Enpassant" este o miscare speciala a unui pion advers care se poate face imediat dupa ce un alt pion a facut o miscare de doua pozitii de la pozitia initiala.
 Cum se numeste situatia in care regele este in pericol si trebuie sa se mute pentru a evita sahul mat?
 Aceasta situatie se numeste sah descoperit.
 Care este principala diferenta dintre sah si sahul etern?
@@ -102,8 +102,8 @@ Care este numele piesei din sah care se misca in forma de "L"?
 Aceasta piesa este calul.
 Ce reprezinta remiza in sah?
 Remiza este rezultatul unei partide in care niciun jucator nu poate obtine mat sau in care ambii jucatori sunt de acord cu rezultatul egal.
-Ce inseamna "en passant" in sah?
-"En passant" este o miscare speciala a unui pion care poate fi efectuata imediat dupa ce adversarul avanseaza un pion de doua patratele de la pozitia initiala.
+Ce inseamna "enpassant" in sah?
+"Enpassant" este o miscare speciala a unui pion care poate fi efectuata imediat dupa ce adversarul avanseaza un pion de doua patratele de la pozitia initiala.
 Care este denumirea miscarii in care regele si regina isi schimba pozitiile?
 Aceasta miscare se numeste rocada mare.
 Care este cel mai scurt sah mat posibil?
@@ -202,8 +202,8 @@ Cum inseamna "a sacrifica un pion"?
 Expresia "a sacrifica un pion" este folosita pentru a descrie investirea mica(in acest caz)in un avantaj ulterior major.
 Ce miscari pot face pionii si in ce directii?
 Pionii pot muta doar cate un camp inainte, pe verticala. Exceptia este prima mutare, cand un pion poate muta doua campuri inainte.
-Ce este "en passant"?
-"En passant" este o forma speciala de capturare a unui pion de catre alt pion in conditii speciale, cand pionul atacat a fost mutat doua campuri. Daca in acest caz pionul atacat se afla in stanga sau in dreapta sa, pionul atacator poate sa il captureze, ajungand in campul din spatele pionului capturat.
+Ce este "enpassant"?
+"Enpassant" este o forma speciala de capturare a unui pion de catre alt pion in conditii speciale, cand pionul atacat a fost mutat doua campuri. Daca in acest caz pionul atacat se afla in stanga sau in dreapta sa, pionul atacator poate sa il captureze, ajungand in campul din spatele pionului capturat.
 Ce se intampla la schimbarea unui pion?
 La schimbarea unui pion, jucatorul poate alege orice piesa in afara de el insusi si rege. Damele sunt preferate pentru ca sunt considerate cele mai puternice piese, dar cazuri particulare ar putea cere alta piesa.
 Cate potentiale dame ar putea avea fiecare jucator?

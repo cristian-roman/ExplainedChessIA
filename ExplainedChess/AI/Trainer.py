@@ -3,6 +3,7 @@ import torch
 from torch import nn, optim
 import torch.nn.functional as F
 from AI.Model.Model import Model
+from AI.Model.ModelConfig import ModelConfig
 from AI.Utils.Utils import Utils
 
 
@@ -12,11 +13,12 @@ class Trainer:
         self.word_value_table, self.shuffled_words = self.__create_vocabulary()
 
     def train(self):
+        ModelConfig.input_layer_size = len(self.shuffled_words)
         lstm_model = Model()
         criterion = nn.MSELoss()
-        optimizer = optim.Adam(lstm_model.parameters(), lr=0.01)
+        optimizer = optim.Adam(lstm_model.parameters(), lr=0.001)
 
-        for epoch in range(10):
+        for epoch in range(100):
             with open(self.dataset_path) as file:
                 question = file.readline()
                 while question:
@@ -37,12 +39,13 @@ class Trainer:
 
                         question_tensor = torch.cat([question_tensor[0:lng], expected_output[0]], dim=0)
                         lng += 1
-                        question_tensor = F.pad(question_tensor, pad=(0, 750 - lng))
+                        question_tensor = F.pad(question_tensor, pad=(0, ModelConfig.input_layer_size - lng))
 
                     question = file.readline()
 
-        # save the model
-        torch.save(lstm_model.state_dict(), './AI/model.pth')
+            if epoch % 10 == 0:
+                print('Epoch: {}/{}............. saving'.format(epoch, 100), end=' ')
+                torch.save(lstm_model.state_dict(), './AI/model.pth')
 
     def __create_vocabulary(self):
         word_table = Trainer.get_words_file(self.dataset_path)
@@ -83,9 +86,9 @@ class Trainer:
     @staticmethod
     def __create_word_value_table(words):
         word_to_index = dict()
-        step = 1 / len(words)
-        for i in range(len(words)):
-            word_to_index[words[i]] = i * step
+        step = 1 / (len(words) + 1)
+        for i in range(1, len(words)+1):
+            word_to_index[words[i-1]] = i * step
 
         return word_to_index
 
@@ -98,5 +101,5 @@ class Trainer:
     def get_question_tensor(self, question):
         words = Utils.preprocess_question(question)
         word_values = [self.word_value_table[word] for word in words]
-        padded_tensor = F.pad(torch.tensor(word_values), pad=(0, 750 - len(word_values)))
+        padded_tensor = F.pad(torch.tensor(word_values), pad=(0, ModelConfig.input_layer_size - len(word_values)))
         return len(word_values), padded_tensor.float()

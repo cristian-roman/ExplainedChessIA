@@ -15,6 +15,8 @@ class Utils:
 
     @staticmethod
     def preprocess_sentence(sentence):
+        if sentence[-1] == '\n':
+            sentence = sentence[:-1]
         words = Utils.tokenize(sentence)
         words = Utils.remove_punctuation(words)
         return words

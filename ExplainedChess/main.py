@@ -4,4 +4,5 @@ trainer = Trainer("./AI/Data/chat.txt")
 trainer.train()
 
 server = Server()
+server.run()
 
