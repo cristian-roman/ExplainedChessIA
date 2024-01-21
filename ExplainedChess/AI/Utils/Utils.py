@@ -24,8 +24,9 @@ class Utils:
             json.dump(data, outfile)
 
     @staticmethod
-    def preprocess_input(x):
-        x = x.lower()
+    def preprocess_input(x, to_lower=True):
+        if to_lower:
+            x = x.lower()
         x = x.replace('\n', '')
         x = x.replace('.', ' .')
         x = x.replace(',', ' ,')
