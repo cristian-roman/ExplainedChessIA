@@ -1,2 +1,0 @@
-Ce reprezinta en passant?
-En passant reprezinta o situatie in care 2 pioni se afla pe aceeasi line dupa ce unul dintre ei a fost mutat cu 2 patratele inainte. Pionul care a fost mutat cu 2 patratele poate fi capturat de pionul adversar ca si cum ar fi fost mutat cu un patratel inainte. Acest lucru se poate face doar in urmatoarea mutare. Daca nu se face, pionul adversar nu mai poate fi capturat in acest mod.Cum se misca pionul in prima mutare?Pionul se poate misca cu unul sau doua patratele inainte.
