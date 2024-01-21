@@ -37,6 +37,8 @@ class Server:
 
         if question.startswith("Avand urmatoarea partida"):
             return self.explainer.get_next_set_of_moves_from_moves(question)
+        elif question.startswith("Avand urmatoarea pozitie"):
+            return self.explainer.get_next_set_of_moves_from_position(question)
 
         return self.explainer.explain(question)
 
