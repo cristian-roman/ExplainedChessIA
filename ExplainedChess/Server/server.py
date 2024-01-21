@@ -7,7 +7,7 @@ class Server:
     def __init__(self):
         self.app = Flask(__name__)
         CORS(self.app)
-        self.explainer = Explainer()
+        self.explainer = Explainer("./AI/Data/chat.json")
 
         @self.app.route('/test', methods=['POST', 'OPTIONS'])
         def your_endpoint():
@@ -32,6 +32,12 @@ class Server:
                 return jsonify({'error': str(e)}), 500
 
     def process_data(self, question):
+
+        # check if it starts with 'Avand urmatoarea partida'
+
+        if question.startswith("Avand urmatoarea partida"):
+            return self.explainer.get_next_set_of_moves_from_moves(question)
+
         return self.explainer.explain(question)
 
     def run(self):

@@ -1,104 +1,57 @@
-import random
 import torch
-from torch import nn, optim
-import torch.nn.functional as F
+from torch import nn
+
 from AI.Model.Model import Model
-from AI.Model.ModelConfig import ModelConfig
 from AI.Utils.Utils import Utils
 
 
 class Trainer:
     def __init__(self, dataset_path):
-        self.dataset_path = dataset_path
-        self.word_value_table, self.shuffled_words = self.__create_vocabulary()
+        self.data = Utils.load_dataset(dataset_path)
+        self.dataset_length = len(self.data)
+
+        self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
+        print("Do you want to load the model from a file? (y/n)")
+        answer = input()
+        if answer == 'y':
+            self.model = Model().to(self.device)
+            self.model.load_state_dict(torch.load("./AI/model.pth"))
+        else:
+            self.model = Model().to(self.device)  # Move the model to GPU
+        self.criterion = nn.MSELoss()
+        self.optimizer = torch.optim.Adam(self.model.parameters(), lr=0.0001)
 
     def train(self):
-        lstm_model = Model()
-        criterion = nn.MSELoss()
-        optimizer = optim.Adam(lstm_model.parameters(), lr=0.001)
+        minimal_loss = 0.006283239782403527
+        total_loss = 0.0
+        for epoch in range(1, 10000):
+            current_loss = 0.0
+            for i in range(self.dataset_length):
+                question = self.data[i]['question']
+                question_vector = Utils.process_question(question)
+                question_vector = torch.tensor(question_vector, dtype=torch.float32).to(
+                    self.device)  # Move input to GPU
+                question_vector = question_vector.view(1, -1)
 
-        for epoch in range(100):
-            with open(self.dataset_path) as file:
-                question = file.readline()
-                while question:
-                    lng, question_tensor = self.get_question_tensor(question)
+                output = self.model(question_vector)
+                expected_output = float(self.data[i]['order_number']) / self.dataset_length
+                expected_output = torch.tensor(expected_output, dtype=torch.float32).view(1, 1).to(self.device)
 
-                    answer = file.readline()
-                    tokenized_answer = Utils.preprocess_sentence(answer)
-                    tokenized_answer.append('.')
+                loss = self.criterion(output, expected_output)
+                current_loss += loss.item()
+                loss.backward()
+                self.optimizer.step()
+                self.optimizer.zero_grad()
 
-                    for i in range(0, len(tokenized_answer)):
-                        output = lstm_model(question_tensor.unsqueeze(1))
-                        expected_output = torch.tensor([self.word_value_table[tokenized_answer[i]]]).view(-1, 1).float()
-
-                        loss = criterion(output, expected_output[0])
-                        optimizer.zero_grad()
-                        loss.backward()
-                        optimizer.step()
-
-                        question_tensor = torch.cat([question_tensor[0:lng], expected_output[0]], dim=0)
-                        lng += 1
-                        question_tensor = F.pad(question_tensor, pad=(0, ModelConfig.input_layer_size - lng))
-
-                    question = file.readline()
-
+            total_loss += current_loss
             if epoch % 10 == 0:
-                print('Epoch: {}/{}............. saving'.format(epoch, 100), end=' ')
-                torch.save(lstm_model.state_dict(), './AI/model.pth')
+                print(f'Epoch: {epoch}, average_loss: {total_loss/10}\n')
+                total_loss = 0.0
 
-    def __create_vocabulary(self):
-        word_table = Trainer.get_words_file(self.dataset_path)
-        word_table.add('.')
-
-        shuffled_words = Trainer.__shuffle_words(list(word_table))
-
-        word_value_table = Trainer.__create_word_value_table(shuffled_words)
-        Trainer.__save_word_value_table(word_value_table)
-
-        return word_value_table, shuffled_words
-
-    @staticmethod
-    def get_words_file(dataset_path):
-        word_table = set()
-
-        with open(dataset_path) as file:
-            for line in file:
-                words = Utils.preprocess_sentence(line)
-                for word in words:
-                    word_table.add(word)
-
-        return word_table
-
-    @staticmethod
-    def __shuffle_words(words):
-        shuffled_words = list()
-        picked_indexes = set()
-        for word in words:
-            random_index = random.randint(0, len(shuffled_words))
-            while random_index in picked_indexes:
-                random_index = random.randint(0, len(shuffled_words))
-            shuffled_words.insert(random_index, word)
-            picked_indexes.add(random_index)
-
-        return shuffled_words
-
-    @staticmethod
-    def __create_word_value_table(words):
-        word_to_index = dict()
-        step = 1 / (len(words) + 1)
-        for i in range(1, len(words)+1):
-            word_to_index[words[i-1]] = i * step
-
-        return word_to_index
-
-    @staticmethod
-    def __save_word_value_table(word_to_index):
-        with open('./AI/word_to_index.txt', 'w') as f:
-            for word in word_to_index:
-                f.write(word + ' ' + str(word_to_index[word]) + '\n')
-
-    def get_question_tensor(self, question):
-        words = Utils.preprocess_question(question)
-        word_values = [self.word_value_table[word] for word in words]
-        padded_tensor = F.pad(torch.tensor(word_values), pad=(0, ModelConfig.input_layer_size - len(word_values)))
-        return len(word_values), padded_tensor.float()
+            if current_loss < minimal_loss:
+                minimal_loss = current_loss
+                torch.save(self.model.state_dict(), "./AI/model.pth")
+                print(f"best model saved with loss: {minimal_loss} at epoch: {epoch}")
+                with open("./AI/loss.txt", 'w') as f:
+                    f.write(str(minimal_loss))

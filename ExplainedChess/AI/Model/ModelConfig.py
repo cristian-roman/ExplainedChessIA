@@ -1,2 +1,4 @@
 class ModelConfig:
-    input_layer_size = 200
+    input_row_size = 44
+    input_number_of_rows = 40
+    total_data = 0
