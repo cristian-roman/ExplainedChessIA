@@ -13,7 +13,6 @@ class Trainer:
         self.word_value_table, self.shuffled_words = self.__create_vocabulary()
 
     def train(self):
-        ModelConfig.input_layer_size = len(self.shuffled_words)
         lstm_model = Model()
         criterion = nn.MSELoss()
         optimizer = optim.Adam(lstm_model.parameters(), lr=0.001)
