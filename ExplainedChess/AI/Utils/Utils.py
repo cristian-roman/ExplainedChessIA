@@ -8,6 +8,7 @@ class Utils:
 
     @staticmethod
     def create_json_file_from_plain_text(file, output_file):
+        question_set = set()
         with open(file) as f:
             question = f.readline()
             i = 0
@@ -18,7 +19,11 @@ class Utils:
                 answer = Utils.preprocess_input(answer)
                 data_row = {'order_number': i, 'question': question, 'answer': answer}
                 data.append(data_row)
+                question_set.add(question)
                 question = f.readline()
+                while question and question in question_set:
+                    answer = f.readline()
+                    question = f.readline()
                 i += 1
         with open(output_file, 'w') as outfile:
             json.dump(data, outfile)
