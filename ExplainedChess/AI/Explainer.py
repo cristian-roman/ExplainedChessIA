@@ -35,7 +35,7 @@ class Explainer:
     def get_next_set_of_moves_from_moves(self, question):
         try:
 
-            question = Utils.preprocess_input(question)
+            question = Utils.preprocess_input(question, False)
             question = Utils.remove_punctuation(question)
 
             tokens = question.split(' ')
@@ -110,10 +110,9 @@ class Explainer:
         if len(token) > 5:
             return False
         for char in token:
-            if not (
-                    'h' >= char >= 'a' or '8' >= char >= '1' or char == 'x' or char == '-' or char == '+' or char == '#'):
-                return False
-        return True
+            if '1' <= char <= '9':
+               return True
+        return False
 
     def get_next_set_of_moves_from_position(self, question):
         try:

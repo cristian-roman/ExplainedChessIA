@@ -1,1172 +1,1057 @@
 [
      {
           "order_number": 0,
-          "question": "ce este sahul ?",
-          "answer": "sahul este o situatie in care o piesa inamica ataca regele ."
-     },
-     {
-          "order_number": 1,
-          "question": "care este scopul final al jocului de sah ?",
-          "answer": "scopul final al jocului de sah este sa dai sah mat adversarului tau , adica sa ii ameninti regele in asa fel incat acesta sa nu mai poata fi salvat ."
-     },
-     {
-          "order_number": 2,
-          "question": "cum se castiga ?",
-          "answer": "jocul se termina atunci cand unul dintre jucatori isi pune adversarul in sah mat . acest lucru se intampla atunci cand regele se afla in o pozitie de sah si nu mai are unde sa mute asa incat sa nu mai fie in sah . in acest caz , jucatorul care a pus regele advers in sah mat castiga jocul ."
-     },
-     {
-          "order_number": 3,
-          "question": "cum se termina jocul ?",
-          "answer": "jocul se termina atunci cand unul dintre jucatori castiga sau cand se ajunge la remiza . jocul se poate termina cu remiza in urmatoarele situatii : - daca ambii jucatori raman numai cu regele pe tabla de sah - daca unul din jucatori nu mai are unde sa mute deoarece toate mutarile posibile duc la sah ( situatie cunoscuta si ca 'pat' ) - daca unul dintre jucatori cere remiza si adversarul accepta"
-     },
-     {
-          "order_number": 4,
-          "question": "cand se finalizeaza o partida de sah ?",
-          "answer": "partida de sah se finalizeaza cand unul dintre jucatori isi pune adversarul in sah mat , cand unul dintre jucatori renunta sau cand se ajunge la remiza ."
-     },
-     {
-          "order_number": 5,
-          "question": "care sunt piesele din sah si cum se misca ?",
-          "answer": "piesele din sah sunt : regele , regina , turnul , nebunul , calul si pionii . fiecare piesa are miscarile si regulile sale specifice in joc ."
-     },
-     {
-          "order_number": 6,
-          "question": "care este diferenta dintre sah si sah mat ?",
-          "answer": "sahul este o amenintare la adresa regelui advers , iar sahul mat este situatia in care regele advers nu poate fi salvat din amenintare si jocul se incheie ."
-     },
-     {
-          "order_number": 7,
-          "question": "cand ai avantaj in partida de sah ?",
-          "answer": "ai avantaj in partida de sah daca ai mai multe piese decat adversarul ."
-     },
-     {
-          "order_number": 8,
-          "question": "cand ai dezavantaj in partida de sah ?",
-          "answer": "ai dezavantaj in partida de sah daca ai mai putine piese decat adversarul ."
-     },
-     {
-          "order_number": 9,
-          "question": "cand ai o pozitie buna in partida de sah ?",
-          "answer": "ai o pozitie buna in partida de sah daca ai control asupra centruiui tablei , daca ti protejezi regele si daca ti aranjezi piesele intr un mod coordonat si defensiv ."
-     },
-     {
-          "order_number": 10,
-          "question": "cand ai o pozitie proasta in partida de sah ?",
-          "answer": "ai o pozitie proasta in partida de sah daca nu ai control asupra centruiui tablei , daca nu ti protejezi regele sau daca ti aranjezi piesele intr un mod dezorganizat si nu defensiv ."
-     },
-     {
-          "order_number": 11,
           "question": "ce reprezinta enpassant ?",
           "answer": "enpassant reprezinta o situatie in care 2 pioni se afla pe aceeasi line dupa ce unul dintre ei a fost mutat cu 2 patratele inainte . pionul care a fost mutat cu 2 patratele poate fi capturat de pionul adversar ca si cum ar fi fost mutat cu un patratel inainte . acest lucru se poate face doar in urmatoarea mutare . daca nu se face , pionul adversar nu mai poate fi capturat in acest mod ."
      },
      {
-          "order_number": 12,
-          "question": "ce inseamna enpassant in sah ?",
-          "answer": "enpassant este o miscare speciala a unui pion care poate fi efectuata imediat dupa ce adversarul avanseaza un pion de doua patratele de la pozitia initiala ."
-     },
-     {
-          "order_number": 13,
-          "question": "cum mut un pion ?",
-          "answer": "pionii se pot muta doar inainte , pe verticala , cu exceptia primei mutari , cand un pion poate sa se mute doua patrate inainte . pionii nu se pot muta inapoi ."
-     },
-     {
-          "order_number": 14,
-          "question": "ce este un pion ?",
-          "answer": "pionul este o piesa de sah care se poate muta cu un patratel inainte in mod obisnuit . daca este prima mutare a pionului , acesta se poate muta cu doua patratele inainte . pionul poate captura pe diagonala , cu un patratel inainte si unul la stanga sau la dreapta ."
-     },
-     {
-          "order_number": 15,
+          "order_number": 1,
           "question": "cum se misca pionul in prima mutare ?",
           "answer": "pionul se poate misca cu unul sau doua patratele inainte ."
      },
      {
-          "order_number": 16,
-          "question": "ce miscari pot face pionii si in ce directii ?",
-          "answer": "pionii pot muta doar cate un camp inainte , pe verticala . exceptia este prima mutare , cand un pion poate muta doua campuri inainte ."
-     },
-     {
-          "order_number": 17,
+          "order_number": 2,
           "question": "cum se misca pionul ?",
           "answer": "pionul se poate misca cu un patratel inainte in mod obisnuit . daca este prima mutare a pionului , acesta se poate misca cu doua patratele inainte . pionul poate captura pe diagonala , cu un patratel inainte si unul la stanga sau la dreapta ."
      },
      {
-          "order_number": 18,
+          "order_number": 3,
           "question": "cum captureaza pionul ?",
           "answer": "pionul captureaza pe diagonala , cu un patratel inainte si unul la stanga sau la dreapta ."
      },
      {
-          "order_number": 19,
-          "question": "ce pot face pionii ?",
-          "answer": "pionii se pot muta cu un patratel inainte in mod obisnuit . daca este prima mutare a pionului , acesta se poate muta cu doua patratele inainte . pionul poate captura pe diagonala , cu un patratel inainte si unul la stanga sau la dreapta . de asemenea , pionul poate captura enpassant si trebuie a promova in orice alta piesa , cu exceptia regelui si a pionului , daca ajunge la capatul tablei de sah . in acest fel mai multe piese de acest tip pot ajunge pe tabla de sah ."
-     },
-     {
-          "order_number": 20,
-          "question": "care este cea mai mica piesa valorica din sah ?",
-          "answer": "pionul este cea mai mica piesa valorica din sah , avand o valoare de 1 punct ."
-     },
-     {
-          "order_number": 21,
-          "question": "care este valoarea in puncte a unui pion in sah ?",
-          "answer": "valoarea unui pion in sah este de 1 punct ."
-     },
-     {
-          "order_number": 22,
-          "question": "de ce pionii au cea mai mica valoare ?",
-          "answer": "pionii sunt considerati cu cea mai scazuta valoare deoarece sunt adesea sacrificati pentru obtinerea unei pozitii superioare sau pentru mascarea unui atac ulterior ."
-     },
-     {
-          "order_number": 23,
-          "question": "cati pioni sunt in jocul de sah ?",
-          "answer": "un joc de sah are 16 pioni , 8 albi si 8 negri ."
-     },
-     {
-          "order_number": 24,
-          "question": "cati pioni are un jucator in sah ?",
-          "answer": "un jucator are 8 pioni la dispozitia sa ."
-     },
-     {
-          "order_number": 25,
-          "question": "cati pioni exista pentru fiecare jucator la inceputul jocului ?",
-          "answer": "fiecare jucator are 8 pioni la inceputul jocului ."
-     },
-     {
-          "order_number": 26,
-          "question": "care este piesa prezenta in numar cel mai mare in jocul de sah ?",
-          "answer": "pionul este cea mai des intalnita piesa pe tabla de sah , fiind 16 pe tabla la inceputul unei partide ."
-     },
-     {
-          "order_number": 27,
-          "question": "care este cea mai slaba piesa de sah ?",
-          "answer": "pionul ."
-     },
-     {
-          "order_number": 28,
-          "question": "ce se intampla in cazul in care un pion ajunge la capatul opus al tablei de sah ?",
-          "answer": "un pion poate fi promovat in alta piesa ( de obicei , regina ) atunci cand ajunge la capatul opus al tablei ."
-     },
-     {
-          "order_number": 29,
-          "question": "cum notam o mutare de pion care se face sah ?",
-          "answer": "o mutare de pion care se face sah este notata prin pozitia de plecare a pionului , urmata de \"x\" si pozitia de sosire a acestuia , urmata de \"+\" ."
-     },
-     {
-          "order_number": 30,
-          "question": "cum notam cand promovam un pion ?",
-          "answer": "cand promovam un pion , notam pozitia de plecare a pionului , urmata de \"=\" si piesa in care se transforma pionul , urmata de pozitia de sosire a piesei ."
-     },
-     {
-          "order_number": 31,
-          "question": "cum notam cand promovam un pion si facem sah ?",
-          "answer": "cand promovam un pion si facem sah , notam pozitia de plecare a pionului , urmata de \"=\" si piesa in care se transforma pionul , urmata de pozitia de sosire a piesei , urmata de \"+\" ."
-     },
-     {
-          "order_number": 32,
-          "question": "cum notam cand promovam un pion si facem sah mat ?",
-          "answer": "cand promovam un pion si facem sah mat , notam pozitia de plecare a pionului , urmata de \"=\" si piesa in care se transforma pionul , urmata de pozitia de sosire a piesei , urmata de \"#\" ."
-     },
-     {
-          "order_number": 33,
-          "question": "cum notam o mutare de pion care face sah mat ?",
-          "answer": "o mutare de pion care face sah mat este notata prin pozitia de plecare a pionului , urmata de \"x\" si pozitia de sosire a acestuia , urmata de \"#\" ."
-     },
-     {
-          "order_number": 34,
-          "question": "cum se misca tura ?",
-          "answer": "tura se poate misca oricat de multe patratele , pe linii si coloane , atat in sus cat si in jos sau la stanga si la dreapta ."
-     },
-     {
-          "order_number": 35,
-          "question": "care este valoarea in puncte a unui turn in sah ?",
-          "answer": "valoarea unui turn in sah este de 5 puncte ."
-     },
-     {
-          "order_number": 36,
-          "question": "ce este un cal ?",
-          "answer": "calul este o piesa de sah care se poate muta in forma de l , adica doua patratele inainte si una la stanga sau la dreapta , sau una inainte si doua la stanga sau la dreapta , sau doua patratele inapoi si una la stanga sau la dreapta , sau una inapoi si doua la stanga sau la dreapta ."
-     },
-     {
-          "order_number": 37,
+          "order_number": 4,
           "question": "cum se misca calul ?",
           "answer": "calul se poate misca in forma de l , adica doua patratele inainte si una la stanga sau la dreapta , sau una inainte si doua la stanga sau la dreapta , sau doua patratele inapoi si una la stanga sau la dreapta , sau una inapoi si doua la stanga sau la dreapta ."
      },
      {
-          "order_number": 38,
-          "question": "care sunt miscarile posibile ale unui cal in sah ?",
-          "answer": "calul se misca in forma de l : doua pozitii in o directie si una perpendiculara ."
-     },
-     {
-          "order_number": 39,
-          "question": "cum mut un cal ?",
-          "answer": "calul se poate muta in forma de l , adica doua patrate inainte si unul la stanga sau la dreapta . calul poate sari peste alte piese ."
-     },
-     {
-          "order_number": 40,
-          "question": "care este valoarea in puncte a unui cal in sah ?",
-          "answer": "valoarea unui cal in sah este de 3 puncte ."
-     },
-     {
-          "order_number": 41,
-          "question": "pot sa mut calul pe diagonala ?",
-          "answer": "nu , calul se poate muta doar in forma de l , adica doua patratele inainte si una la stanga sau la dreapta , sau una inainte si doua la stanga sau la dreapta , sau doua patratele inapoi si una la stanga sau la dreapta , sau una inapoi si doua la stanga sau la dreapta ."
-     },
-     {
-          "order_number": 42,
-          "question": "cum muta calul ?",
-          "answer": "mutarea calului este unica din doua motive . in primul rand , calul muta doua patrate pe orizontala sau verticala si apoi un patrat pe o directie perpendiculara pe cea dintai , adica in forma de l . in al doilea rand , calul sare peste piesele care se gasesc intre campul de plecare si cel de sosire ."
-     },
-     {
-          "order_number": 43,
-          "question": "ce consecinta are mutarea unui cal ?",
-          "answer": "ca o consecinta a mutarii , calul schimba culoarea campului pe care se afla la fiecare mutare ."
-     },
-     {
-          "order_number": 44,
-          "question": "cum captureaza calul ?",
-          "answer": "calul captureaza o piesa adversa care se afla pe campul pe care muta , si este singura piesa care poate sari peste alte piese ( piesele peste care sare nu sunt capturate in acest proces ) ."
-     },
-     {
-          "order_number": 45,
-          "question": "cum variaza puterea calului in functie de pozitionarea sa pe tabla de sah ?",
-          "answer": "un cal pozitionat central ataca opt campuri , in timp ce un cal la margine ataca patru , iar un cal in colt ataca doar doua ."
-     },
-     {
-          "order_number": 46,
-          "question": "de ce este considerata o mutare importanta a calului sa se indrepte spre centrul tablei la inceputul jocului ?",
-          "answer": "calul este singura piesa care poate muta la inceputul jocului , inainte sa fi fost mutat vreun pion . vrem sa atacam ( sau sa controlam ) campurile din centrul tablei cat mai rapid . din acest motiv mutarea catre centrul tablei este considerata cea mai buna in majoritatea situatiilor ."
-     },
-     {
-          "order_number": 47,
-          "question": "cum se dezvolta de obicei caii in o partida de sah in comparatie cu alte piese ?",
-          "answer": "in o partida de sah , caii sunt dezvoltati de obicei putin mai devreme decat nebunii , si mult mai devreme decat turnurile si dama ."
-     },
-     {
-          "order_number": 48,
-          "question": "cum notam o mutare de cal ?",
-          "answer": "o mutare de cal este notata prin \"n\" ( de la \"knight\" , care inseamna cal in engleza ) , urmata de pozitia de sosire a acestuia ."
-     },
-     {
-          "order_number": 49,
-          "question": "cum fac sah mat cu un cal si un nebun ?",
-          "answer": "pentru a face sah mat cu un cal si un nebun , trebuie sa muti nebunul in diagonala , in jurul regelui adversarului , pentru a-l ataca si a nu mai avea nicio mutare legala ."
-     },
-     {
-          "order_number": 50,
-          "question": "cum notam o mutare de cal care face sah mat ?",
-          "answer": "o mutare de cal care face sah mat este notata prin \"n\" ( de la \"knight\" , care inseamna cal in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia , urmata de \"#\" ."
-     },
-     {
-          "order_number": 51,
-          "question": "cum notam o mutare de cal care captureaza ?",
-          "answer": "o mutare de cal care captureaza este notata prin \"n\" ( de la \"knight\" , care inseamna cal in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia ."
-     },
-     {
-          "order_number": 52,
+          "order_number": 5,
           "question": "cum se misca nebunul ?",
           "answer": "nebunul se poate misca pe diagonala , oricat de multe patratele , atat in sus cat si in jos ."
      },
      {
-          "order_number": 53,
-          "question": "pot sa mut nebunul altfel decat pe diagonala ?",
-          "answer": "nu , nebunul se poate muta doar pe diagonala , oricat de multe patratele , atat in sus cat si in jos ."
+          "order_number": 6,
+          "question": "cum se misca tura ?",
+          "answer": "tura se poate misca oricat de multe patratele , pe linii si coloane , atat in sus cat si in jos sau la stanga si la dreapta ."
      },
      {
-          "order_number": 54,
-          "question": "cum poti muta un nebun ?",
-          "answer": "nebunul se poate muta pe diagonala , oricate patratele ."
-     },
-     {
-          "order_number": 55,
-          "question": "care este valoarea in puncte a unui nebun in sah ?",
-          "answer": "valoarea unui nebun in sah este de 3 puncte ."
-     },
-     {
-          "order_number": 56,
+          "order_number": 7,
           "question": "cum se misca regina ?",
           "answer": "regina se poate misca oricat de multe patratele in orice directie ."
      },
      {
-          "order_number": 57,
-          "question": "cum ajungi sa ai doua regine in sah ?",
-          "answer": "poti ajunge sa ai doua regine in sah daca pionul tau ajunge pe ultima linie a tablei si alegi sa il transformi intr o regina ."
-     },
-     {
-          "order_number": 58,
+          "order_number": 8,
           "question": "cum se misca regele ?",
           "answer": "regele se poate misca cu un patratel in orice directie ."
      },
      {
-          "order_number": 59,
-          "question": "ce distanta trebuie respectata intre doi regi in sah ?",
-          "answer": "distanta minima intre doi regi in sah este de 2 patratele ."
+          "order_number": 9,
+          "question": "cum se castiga ?",
+          "answer": "jocul se termina atunci cand unul dintre jucatori isi pune adversarul in sah mat . acest lucru se intampla atunci cand regele se afla in o pozitie de sah si nu mai are unde sa mute asa incat sa nu mai fie in sah . in acest caz , jucatorul care a pus regele advers in sah mat castiga jocul ."
      },
      {
-          "order_number": 60,
-          "question": "cum poti afla daca regele tau e in sah ?",
-          "answer": "regele tau este in sah daca este atacat de o piesa a adversarului ."
+          "order_number": 10,
+          "question": "cum se termina jocul ?",
+          "answer": "jocul se termina atunci cand unul dintre jucatori castiga sau cand se ajunge la remiza . jocul se poate termina cu remiza in urmatoarele situatii : - daca ambii jucatori raman numai cu regele pe tabla de sah - daca unul din jucatori nu mai are unde sa mute deoarece toate mutarile posibile duc la sah ( situatie cunoscuta si ca 'pat' ) - daca unul dintre jucatori cere remiza si adversarul accepta"
      },
      {
-          "order_number": 61,
-          "question": "cum poti afla daca regele tau e in sah mat ?",
-          "answer": "regele tau este in sah mat daca este atacat de o piesa a adversarului si nu mai are nicio mutare posibila ."
-     },
-     {
-          "order_number": 62,
-          "question": "poate fi regele capturat ?",
-          "answer": "nu , regele nu poate fi capturat . daca regele este atacat , jucatorul trebuie sa mute regele in asa fel incat sa nu mai fie in sah . daca nu exista nicio mutare posibila care sa scoata regele din sah , jucatorul a pierdut jocul ."
-     },
-     {
-          "order_number": 63,
+          "order_number": 11,
           "question": "ce inseamna rocada ?",
           "answer": "rocada este o mutare speciala in care regele si tura se muta in acelasi timp . rocada se poate face doar daca regele si tura nu au mai fost mutate inainte , daca nu exista piese intre rege si tura , daca regele nu este in sah si daca regele nu trece prin sah . rocada se poate face atat la stanga cat si la dreapta . in cazul rocadei la stanga , regele se muta doua patratele la stanga , iar tura se muta peste rege , adica trei patratele la dreapta . in cazul rocadei la dreapta , regele se muta doua patratele la dreapta , iar tura se muta peste rege , adica doua patratele la stanga ."
      },
      {
-          "order_number": 64,
+          "order_number": 12,
+          "question": "ce este sahul ?",
+          "answer": "sahul este o situatie in care o piesa inamica ataca regele ."
+     },
+     {
+          "order_number": 13,
           "question": "ce inseamna ca o piesa ataca o alta piesa ?",
           "answer": "o piesa ataca o alta piesa daca se poate muta pe pozitia acelei piese ."
      },
      {
-          "order_number": 65,
+          "order_number": 14,
+          "question": "poate fi regele capturat ?",
+          "answer": "nu , regele nu poate fi capturat . daca regele este atacat , jucatorul trebuie sa mute regele in asa fel incat sa nu mai fie in sah . daca nu exista nicio mutare posibila care sa scoata regele din sah , jucatorul a pierdut jocul ."
+     },
+     {
+          "order_number": 15,
+          "question": "pot sa mut calul pe diagonala ?",
+          "answer": "nu , calul se poate muta doar in forma de l , adica doua patratele inainte si una la stanga sau la dreapta , sau una inainte si doua la stanga sau la dreapta , sau doua patratele inapoi si una la stanga sau la dreapta , sau una inapoi si doua la stanga sau la dreapta ."
+     },
+     {
+          "order_number": 16,
+          "question": "pot sa mut nebunul altfel decat pe diagonala ?",
+          "answer": "nu , nebunul se poate muta doar pe diagonala , oricat de multe patratele , atat in sus cat si in jos ."
+     },
+     {
+          "order_number": 17,
+          "question": "ce pot face pionii ?",
+          "answer": "pionii se pot muta cu un patratel inainte in mod obisnuit . daca este prima mutare a pionului , acesta se poate muta cu doua patratele inainte . pionul poate captura pe diagonala , cu un patratel inainte si unul la stanga sau la dreapta . de asemenea , pionul poate captura enpassant si trebuie a promova in orice alta piesa , cu exceptia regelui si a pionului , daca ajunge la capatul tablei de sah . in acest fel mai multe piese de acest tip pot ajunge pe tabla de sah ."
+     },
+     {
+          "order_number": 18,
+          "question": "ce dimensiuni are o tabla de sah ?",
+          "answer": "o tabla de sah are dimensiunile de 8x8 ."
+     },
+     {
+          "order_number": 19,
+          "question": "cati pioni sunt in jocul de sah ?",
+          "answer": "un joc de sah are 16 pioni , 8 albi si 8 negri ."
+     },
+     {
+          "order_number": 20,
+          "question": "cati pioni are un jucator in sah ?",
+          "answer": "un jucator are 8 pioni la dispozitia sa ."
+     },
+     {
+          "order_number": 21,
+          "question": "ce este sahul ?",
+          "answer": "sahul este un joc de strategie si tactica intre doi jucatori ."
+     },
+     {
+          "order_number": 22,
+          "question": "care sunt piesele din sah si cum se misca ?",
+          "answer": "piesele din sah sunt : regele , regina , turnul , nebunul , calul si pionii . fiecare piesa are miscarile si regulile sale specifice in joc ."
+     },
+     {
+          "order_number": 23,
+          "question": "care este scopul final al jocului de sah ?",
+          "answer": "scopul final al jocului de sah este sa dai sah mat adversarului tau , adica sa ii ameninti regele in asa fel incat acesta sa nu mai poata fi salvat ."
+     },
+     {
+          "order_number": 24,
+          "question": "care este diferenta dintre sah si sah mat ?",
+          "answer": "sahul este o amenintare la adresa regelui advers , iar sahul mat este situatia in care regele advers nu poate fi salvat din amenintare si jocul se incheie ."
+     },
+     {
+          "order_number": 25,
+          "question": "cum se misca regele in sah ?",
+          "answer": "regele se poate misca o singura pozitie in orice directie : vertical , orizontal sau diagonal ."
+     },
+     {
+          "order_number": 26,
+          "question": "ce inseamna rocada in sah ?",
+          "answer": "rocada este o miscare speciala in care regele si unul dintre turnuri se misca simultan , avand anumite conditii de indeplinit ."
+     },
+     {
+          "order_number": 27,
           "question": "care este valoarea in puncte a unei regine in sah ?",
           "answer": "valoarea unei regine in sah este de 9 puncte ."
      },
      {
-          "order_number": 66,
+          "order_number": 28,
+          "question": "care este valoarea in puncte a unui cal in sah ?",
+          "answer": "valoarea unui cal in sah este de 3 puncte ."
+     },
+     {
+          "order_number": 29,
+          "question": "care este valoarea in puncte a unui turn in sah ?",
+          "answer": "valoarea unui turn in sah este de 5 puncte ."
+     },
+     {
+          "order_number": 30,
+          "question": "care este valoarea in puncte a unui nebun in sah ?",
+          "answer": "valoarea unui nebun in sah este de 3 puncte ."
+     },
+     {
+          "order_number": 31,
+          "question": "care este valoarea in puncte a unui pion in sah ?",
+          "answer": "valoarea unui pion in sah este de 1 punct ."
+     },
+     {
+          "order_number": 32,
+          "question": "ce se intampla in cazul in care un pion ajunge la capatul opus al tablei de sah ?",
+          "answer": "un pion poate fi promovat in alta piesa ( de obicei , regina ) atunci cand ajunge la capatul opus al tablei ."
+     },
+     {
+          "order_number": 33,
+          "question": "care sunt miscarile posibile ale unui cal in sah ?",
+          "answer": "calul se misca in forma de l : doua pozitii in o directie si una perpendiculara ."
+     },
+     {
+          "order_number": 34,
           "question": "ce inseamna remiza in sah ?",
           "answer": "remiza este o situatie in care jocul se termina fara a exista un castigator clar , de exemplu , in cazul unei stari de pat sau daca jucatorii ajung la un acord in acest sens ."
      },
      {
-          "order_number": 67,
+          "order_number": 35,
           "question": "care este obiectivul deschiderii in o partida de sah ?",
           "answer": "obiectivul deschiderii este sa iti dezvolti piesele in pozitii strategice pentru a iti asigura o pozitie solida in joc ."
      },
      {
-          "order_number": 68,
+          "order_number": 36,
           "question": "ce reprezinta termenul enpassant in sah ?",
           "answer": "enpassant este o miscare speciala a unui pion advers care se poate face imediat dupa ce un alt pion a facut o miscare de doua pozitii de la pozitia initiala ."
      },
      {
-          "order_number": 69,
+          "order_number": 37,
           "question": "cum se numeste situatia in care regele este in pericol si trebuie sa se mute pentru a evita sahul mat ?",
           "answer": "aceasta situatie se numeste sah descoperit ."
      },
      {
-          "order_number": 70,
+          "order_number": 38,
           "question": "care este principala diferenta dintre sah si sahul etern ?",
           "answer": "in sahul etern , o serie de miscari repetate pot duce la remiza daca sunt facute in mod cunoscut si prevedibil ."
      },
      {
-          "order_number": 71,
+          "order_number": 39,
+          "question": "care este cea mai mica piesa valorica din sah ?",
+          "answer": "pionul este cea mai mica piesa valorica din sah , avand o valoare de 1 punct ."
+     },
+     {
+          "order_number": 40,
           "question": "cum se termina o partida de sah prin matul pastorului ?",
           "answer": "matul pastorului este o secventa specifica de miscari care duc la sah mat in o maniera particulara , implicand folosirea regelui si a pionilor pentru a forta matul ."
      },
      {
-          "order_number": 72,
+          "order_number": 41,
           "question": "ce este un gambit in sah ?",
           "answer": "un gambit este o ofranda de material ( de obicei pion ) in schimbul unei pozitii sau a unui avantaj strategic ."
      },
      {
-          "order_number": 73,
+          "order_number": 42,
           "question": "care este numele miscarii in care regele si unul dintre turnuri se misca simultan ?",
           "answer": "aceasta miscare se numeste rocada ."
      },
      {
-          "order_number": 74,
+          "order_number": 43,
           "question": "ce inseamna sa blocam o piesa in sah ?",
           "answer": "blocarea unei piese inseamna sa impiedici miscarea acelei cu o alta piesa ."
      },
      {
-          "order_number": 75,
+          "order_number": 44,
           "question": "ce este un sah dublu in sah ?",
           "answer": "un sah dublu este o situatie in care regele este amenintat simultan de doua piese adverse ."
      },
      {
-          "order_number": 76,
+          "order_number": 45,
           "question": "care este diferenta dintre matul simplu si matul fortat in sah ?",
           "answer": "matul simplu este acel mat care rezulta din o serie de miscari corecte si strategice , in timp ce matul fortat este acel mat care este inevitabil si nu poate fi prevenit de catre adversar ."
      },
      {
-          "order_number": 77,
+          "order_number": 46,
           "question": "ce inseamna sah mat ?",
           "answer": "sah mat este situatia in care regele unui jucator este amenintat si nu poate fi salvat in urma oricarei miscari ."
      },
      {
-          "order_number": 78,
+          "order_number": 47,
           "question": "care este diferenta dintre sah mat si sah si mat ?",
           "answer": "sah si mat este o expresie folosita pentru a arata ca un jucator a dat sah si , prin urmare , va urma un mat in urma miscarii sale ."
      },
      {
-          "order_number": 79,
+          "order_number": 48,
           "question": "ce este tabla inchisa in sah ?",
           "answer": "tabla inchisa este o situatie in care pionii sunt inca pozitionati in fata pieselor mari , fiind o piedica pentru miscarea lor libera ."
      },
      {
-          "order_number": 80,
+          "order_number": 49,
           "question": "ce inseamna pozitie inchisa in sah ?",
           "answer": "o pozitie inchisa inseamna ca majoritatea liniilor de miscare sunt blocate de piesele proprii sau ale adversarului ."
      },
      {
-          "order_number": 81,
+          "order_number": 50,
           "question": "cum se numeste miscarea speciala in care regele si un turn se misca simultan ?",
           "answer": "aceasta miscare speciala se numeste rocada ."
      },
      {
-          "order_number": 82,
+          "order_number": 51,
           "question": "care este numele piesei din sah care se misca in forma de l ?",
           "answer": "aceasta piesa este calul ."
      },
      {
-          "order_number": 83,
+          "order_number": 52,
           "question": "ce reprezinta remiza in sah ?",
           "answer": "remiza este rezultatul unei partide in care niciun jucator nu poate obtine mat sau in care ambii jucatori sunt de acord cu rezultatul egal ."
      },
      {
-          "order_number": 84,
+          "order_number": 53,
+          "question": "ce inseamna enpassant in sah ?",
+          "answer": "enpassant este o miscare speciala a unui pion care poate fi efectuata imediat dupa ce adversarul avanseaza un pion de doua patratele de la pozitia initiala ."
+     },
+     {
+          "order_number": 54,
           "question": "care este denumirea miscarii in care regele si regina isi schimba pozitiile ?",
           "answer": "aceasta miscare se numeste rocada mare ."
      },
      {
-          "order_number": 85,
+          "order_number": 55,
           "question": "care este cel mai scurt sah mat posibil ?",
           "answer": "cel mai scurt mat posibil , numit matul fool , are loc dupa doar doua miscari , de obicei in o situatie in care un jucator isi expune imediat regele ."
      },
      {
-          "order_number": 86,
+          "order_number": 56,
           "question": "cum se aseaza piesele pe tabla de sah ?",
           "answer": "piesele se aseaza pe tabla de sah in ordinea urmatoare : tura , cal , nebun , regina , rege , nebun , cal , tura . pionii se aseaza pe linia a doua , in fata celorlalte piese . regina trebuie sa se afle initial pe patratul de culoarea ei . astfel , regina alba se aseaza pe patratul alb , iar regina neagra pe patratul negru ."
      },
      {
-          "order_number": 87,
+          "order_number": 57,
           "question": "care este rolul regelui ?",
           "answer": "regele este cea mai importanta piesa . acesta trebuie protejat de catre piesele sale pentru a nu fi capturat de piesele adverse , primul jucator care nu poate sa isi apere regele din a fi capturat pierzand ."
      },
      {
-          "order_number": 88,
+          "order_number": 58,
           "question": "care este scopul final al jocului ?",
           "answer": "scopul final al jocului este amenintarea regelui advers in modul in care acesta nu ar mai putea evita sa fie capturat la mutarea urmatoare ."
      },
      {
-          "order_number": 89,
+          "order_number": 59,
           "question": "cum poate muta regele ?",
           "answer": "regele poate muta in orice directie : orizontala , verticala sau diagonala , dar numai un camp la fiecare mutare .in plus , acesta se poate muta doua campuri in stanga sau dreapta sa in contextul mutarii de rocada ( mica sau mare ) ."
      },
      {
-          "order_number": 90,
+          "order_number": 60,
           "question": "are regele valoare de schimb ?",
           "answer": "in jocul practic , deoarece regele nu poate fi schimbat , notiunea de valoare de schimb isi pierde sensul ."
      },
      {
-          "order_number": 91,
+          "order_number": 61,
           "question": "de ce regele se misca atat de greu ?",
           "answer": "mobilitatea limitata a regelui il obliga pe jucator sa ii acorde cea mai mare atentie , iar in acelasi timp scopul final al jocului ."
      },
      {
-          "order_number": 92,
+          "order_number": 62,
           "question": "care este valoarea atribuita regelui in programele de calcul care joaca sah ?",
           "answer": "valoarea atribuita regelui in programele de calcul care joaca sah este mai mare decat a tuturor pieselor adverse ."
      },
      {
-          "order_number": 93,
+          "order_number": 63,
           "question": "cum poate regele sa evite sahul ?",
           "answer": "regele poate evita sahul prin mutarea sa pe un camp liber unde sa nu fie atacat , prin capturarea piesei care il ataca sau prin interpunerea unei piese proprii pe directia de atac ."
      },
      {
-          "order_number": 94,
+          "order_number": 64,
           "question": "cat de puternic este regele ?",
           "answer": "cand participa de lupta , puterea regelui este aproximativ egala cu a unui cal , fiind , relativ fata de acesta , un pic mai slab cand vine vorba de deplasare rapida din o parte in alta a tablei , respectiv un pic mai puternic cand ne referim la actionarea in o zona cat de cat restransa din tabla , in raport cu aceasta piesa ."
      },
      {
-          "order_number": 95,
+          "order_number": 65,
           "question": "ce se intampla daca regele nu poate evita sa fie capturat la mutarea urmatoare ?",
           "answer": "regele ar fi capturat , iar jocul ar trebui sa se incheie . pierzatorul in acest caz va fi jucatorul al carui rege a fost capturat ."
      },
      {
-          "order_number": 96,
+          "order_number": 66,
           "question": "cate turnuri are fiecare jucator la inceputul jocului si unde sunt asezate ?",
           "answer": "fiecare jucator are la inceputul jocului doua turnuri , asezate in colturile tablei ."
      },
      {
-          "order_number": 97,
+          "order_number": 67,
           "question": "cum sunt notate in notatia algebrica turnurile albe si cele negre la inceputul jocului ?",
           "answer": "in notatia algebrica , turnurile albe sunt asezate pe a1 si h1 , iar cele negre pe a8 si h8 ."
      },
      {
-          "order_number": 98,
+          "order_number": 68,
           "question": "ce miscari poate face turnul si cate patratele poate parcurge ?",
           "answer": "turnul poate muta pe orizontala sau pe verticala , oricate patratele , atata timp cat nu este nici unul ocupat de alta piesa ."
      },
      {
-          "order_number": 99,
+          "order_number": 69,
           "question": "cum captureaza turnul o piesa adversa ?",
           "answer": "turnul captureaza o piesa adversa care se afla pe campul pe care muta ."
      },
      {
-          "order_number": 100,
+          "order_number": 70,
           "question": "ce miscare speciala poate face turnul impreuna cu regele si cum se numeste aceasta ?",
           "answer": "turnul poate face impreuna cu regele o mutare speciala numita rocada ."
      },
      {
-          "order_number": 101,
+          "order_number": 71,
           "question": "care este pozitia si rolul turnului in ierarhia pieselor la sah ?",
           "answer": "turnul este cea mai puternica piesa dupa dama ."
      },
      {
-          "order_number": 102,
+          "order_number": 72,
           "question": "cate piese poate tine in bataie turnul din centrul tablei si din celelalte pozitii ?",
           "answer": "din centrul tablei , turnul poate tine in bataie 4 piese ale adversarului , de la marginea tablei 3 , iar din colt doua piese ale adversarului ."
      },
      {
-          "order_number": 103,
+          "order_number": 73,
           "question": "care este valoarea de schimb a turnului si cum se compara cu alte piese ?",
           "answer": "ca valoare de schimb , turnul valoreaza cat un nebun ( sau cal ) plus doi pioni . echivalarea unui turn cu 5 pioni este riscanta ."
      },
      {
-          "order_number": 104,
+          "order_number": 74,
           "question": "de ce echivalarea unui turn cu 5 pioni este considerata riscanta ?",
           "answer": "echivalarea unui turn cu 5 pioni este riscanta deoarece fortele sunt calitativ foarte diferite , iar caracteristicile pozitiei primeaza ."
      },
      {
-          "order_number": 105,
+          "order_number": 75,
           "question": "cati nebuni are fiecare jucator la inceputul jocului si unde sunt asezati ?",
           "answer": "fiecare jucator are la inceputul jocului doi nebuni , asezati intre unul dintre cai si rege sau dama ."
      },
      {
-          "order_number": 106,
+          "order_number": 76,
           "question": "cum sunt notati in notatia algebrica nebunii albi si cei negri la inceputul jocului ?",
           "answer": "nebunii albi sunt asezati la inceput pe campurile c1 si f1 , iar nebunii negri pe c8 si f8 ."
      },
      {
-          "order_number": 107,
+          "order_number": 77,
           "question": "ce miscari poate face nebunul si pe ce directie ?",
           "answer": "nebunul poate muta oricate patratele , dar numai pe diagonala ."
      },
      {
-          "order_number": 108,
+          "order_number": 78,
           "question": "de ce ramane intotdeauna amplasat nebunul pe campuri de aceeasi culoare ?",
           "answer": "datorita mutarii pe diagonala , un nebun ramane intotdeauna pe campuri de aceeasi culoare ."
      },
      {
-          "order_number": 109,
+          "order_number": 79,
           "question": "cum diferentiez nebunii ?",
           "answer": "cei doi nebuni se mai numesc si nebun de alb si nebun de negru , datorita culorii campului pe care stau la inceputul jocului ."
      },
      {
-          "order_number": 110,
+          "order_number": 80,
           "question": "care este numarul de campuri la care are acces nebunul la inceputul jocului ?",
           "answer": "nebunul are acces la numai 32 din campurile tablei la inceputul jocului ."
      },
      {
-          "order_number": 111,
+          "order_number": 81,
           "question": "este un nebun mai bun decat o tura ?",
           "answer": "nebunul este considerat mai slab decat turnul . in timp ce nebunul poate muta pe jumatate dintre campurile tablei , tura are acces la toate cele 64 de campuri ale tablei ."
      },
      {
-          "order_number": 112,
+          "order_number": 82,
           "question": "cate campuri ataca un nebun ?",
           "answer": "un nebun ataca intre sapte si treisprezece campuri , in functie de pozitie , in timp ce un turn pe o tabla goala ataca 14 campuri ."
      },
      {
-          "order_number": 113,
+          "order_number": 83,
           "question": "cat de buni sunt nebunii ?",
           "answer": "nebunii castiga in putere spre sfarsitul jocului , iar o pereche de nebuni este considerata o arma strategica datorita posibilitatii de a face multe schimburi de piese care sa duca la un final de joc avantajos . ca valoare de schimb , nebunul valoreaza cat trei pioni ."
      },
      {
-          "order_number": 114,
+          "order_number": 84,
           "question": "de ce se numeste dama ?",
           "answer": "in limba romana , se prefera denumirea de dama in loc de regina pentru a permite notatia algebrica cu d , deoarece litera r este rezervata pentru rege ."
      },
      {
-          "order_number": 115,
+          "order_number": 85,
           "question": "cate dame are fiecare jucator la inceputul jocului ?",
           "answer": "fiecare jucator are la inceputul jocului o dama ."
      },
      {
-          "order_number": 116,
+          "order_number": 86,
           "question": "cum este indicata pozitia dameiin notatie algebrica ?",
           "answer": "in notatia algebrica , dama alba este asezata pe d1 , iar cea neagra pe d8 ."
      },
      {
-          "order_number": 117,
+          "order_number": 87,
           "question": "care este culoarea campului pe care incepe dama ?",
           "answer": "dama alba incepe pe un camp alb , iar cea neagra pe un camp negru .pentru a tine minte mai usor , se spune ca dama sta pe culoarea ei"
      },
      {
-          "order_number": 118,
+          "order_number": 88,
           "question": "cum se muta dama ?",
           "answer": "dama combina miscarile turnului si nebunului , putand deci sa fie mutata pe liniile , coloanele si diagonalele ce se intersecteaza cu patratul pe care se afla ."
      },
      {
-          "order_number": 119,
+          "order_number": 89,
           "question": "de ce este considerata dama cea mai puternica piesa ?",
           "answer": "datorita mutarilor si mobilitatii sale , este considerata cea mai puternica piesa de sah .nicio piesa nu are o versatilitate atat de mare ca aceasta in ceea ce priveste mutarile ."
      },
      {
-          "order_number": 120,
+          "order_number": 90,
           "question": "cum pot obtine o noua dama ?",
           "answer": "jucatorul poate obtine o alta dama prin transformarea unui pion ."
      },
      {
-          "order_number": 121,
+          "order_number": 91,
           "question": "unde sunt asezati caii la inceputul jocului ?",
           "answer": "caii albi sunt asezati la inceput pe campurile b1 si g1 , iar caii negri pe b8 si g8 ."
      },
      {
-          "order_number": 122,
+          "order_number": 92,
+          "question": "cum muta calul ?",
+          "answer": "mutarea calului este unica din doua motive . in primul rand , calul muta doua patrate pe orizontala sau verticala si apoi un patrat pe o directie perpendiculara pe cea dintai , adica in forma de l . in al doilea rand , calul sare peste piesele care se gasesc intre campul de plecare si cel de sosire ."
+     },
+     {
+          "order_number": 93,
+          "question": "ce consecinta are mutarea unui cal ?",
+          "answer": "ca o consecinta a mutarii , calul schimba culoarea campului pe care se afla la fiecare mutare ."
+     },
+     {
+          "order_number": 94,
+          "question": "cum captureaza calul ?",
+          "answer": "calul captureaza o piesa adversa care se afla pe campul pe care muta , si este singura piesa care poate sari peste alte piese ( piesele peste care sare nu sunt capturate in acest proces ) ."
+     },
+     {
+          "order_number": 95,
+          "question": "cum variaza puterea calului in functie de pozitionarea sa pe tabla de sah ?",
+          "answer": "un cal pozitionat central ataca opt campuri , in timp ce un cal la margine ataca patru , iar un cal in colt ataca doar doua ."
+     },
+     {
+          "order_number": 96,
+          "question": "de ce este considerata o mutare importanta a calului sa se indrepte spre centrul tablei la inceputul jocului ?",
+          "answer": "calul este singura piesa care poate muta la inceputul jocului , inainte sa fi fost mutat vreun pion . vrem sa atacam ( sau sa controlam ) campurile din centrul tablei cat mai rapid . din acest motiv mutarea catre centrul tablei este considerata cea mai buna in majoritatea situatiilor ."
+     },
+     {
+          "order_number": 97,
+          "question": "cum se dezvolta de obicei caii in o partida de sah in comparatie cu alte piese ?",
+          "answer": "in o partida de sah , caii sunt dezvoltati de obicei putin mai devreme decat nebunii , si mult mai devreme decat turnurile si dama ."
+     },
+     {
+          "order_number": 98,
+          "question": "care este piesa prezenta in numar cel mai mare in jocul de sah ?",
+          "answer": "pionul este cea mai des intalnita piesa pe tabla de sah , fiind 16 pe tabla la inceputul unei partide ."
+     },
+     {
+          "order_number": 99,
+          "question": "cati pioni exista pentru fiecare jucator la inceputul jocului ?",
+          "answer": "fiecare jucator are 8 pioni la inceputul jocului ."
+     },
+     {
+          "order_number": 100,
+          "question": "de ce pionii au cea mai mica valoare ?",
+          "answer": "pionii sunt considerati cu cea mai scazuta valoare deoarece sunt adesea sacrificati pentru obtinerea unei pozitii superioare sau pentru mascarea unui atac ulterior ."
+     },
+     {
+          "order_number": 101,
           "question": "cum inseamna a sacrifica un pion ?",
           "answer": "expresia a sacrifica un pion este folosita pentru a descrie investirea mica ( in acest caz ) in un avantaj ulterior major ."
      },
      {
-          "order_number": 123,
+          "order_number": 102,
+          "question": "ce miscari pot face pionii si in ce directii ?",
+          "answer": "pionii pot muta doar cate un camp inainte , pe verticala . exceptia este prima mutare , cand un pion poate muta doua campuri inainte ."
+     },
+     {
+          "order_number": 103,
           "question": "ce este enpassant ?",
           "answer": "enpassant este o forma speciala de capturare a unui pion de catre alt pion in conditii speciale , cand pionul atacat a fost mutat doua campuri . daca in acest caz pionul atacat se afla in stanga sau in dreapta sa , pionul atacator poate sa il captureze , ajungand in campul din spatele pionului capturat ."
      },
      {
-          "order_number": 124,
+          "order_number": 104,
           "question": "ce se intampla la schimbarea unui pion ?",
           "answer": "la schimbarea unui pion , jucatorul poate alege orice piesa in afara de el insusi si rege . damele sunt preferate pentru ca sunt considerate cele mai puternice piese , dar cazuri particulare ar putea cere alta piesa ."
      },
      {
-          "order_number": 125,
+          "order_number": 105,
           "question": "cate potentiale dame ar putea avea fiecare jucator ?",
           "answer": "fiecare jucator are 9 potentiale dame daca promoveaza toti pionii , incluzand si dama originala ."
      },
      {
-          "order_number": 126,
+          "order_number": 106,
           "question": "cum este dispusi initial pionii in o partida de sah ?",
           "answer": "pionii albi ocupa cea de a doua linie a tablei , iar cei negri ocupa cea de a saptea linie a tablei ."
      },
      {
-          "order_number": 127,
+          "order_number": 107,
           "question": "de ce se afla piesele majore in spatele pionilor la inceputul jocului ?",
           "answer": "piesele majore sunt plasate in spatele pionilor pentru a fi protejate de acestia si pentru a asigura o formare solida a pozitiei in joc ."
      },
      {
-          "order_number": 128,
+          "order_number": 108,
           "question": "poate pionul muta 2 patratele ?",
           "answer": "da , pionul poate muta 2 patratele in prima mutare si numai atunci ."
      },
      {
-          "order_number": 129,
+          "order_number": 109,
           "question": "este o tura mai buna decat un cal ?",
           "answer": "da , din punct de vedere al valorii , o tura este mai buna decat un cal . insa , in anumite situatii , un cal poate fi mai bun decat o tura ."
      },
      {
-          "order_number": 130,
+          "order_number": 110,
+          "question": "ce este un cal ?",
+          "answer": "calul este o piesa de sah care se poate muta in forma de l , adica doua patratele inainte si una la stanga sau la dreapta , sau una inainte si doua la stanga sau la dreapta , sau doua patratele inapoi si una la stanga sau la dreapta , sau una inapoi si doua la stanga sau la dreapta ."
+     },
+     {
+          "order_number": 111,
+          "question": "ce este un nebun ?",
+          "answer": "nebunul este o piesa de sah care se poate muta pe diagonala , oricat de multe patratele , atat in sus cat si in jos ."
+     },
+     {
+          "order_number": 112,
+          "question": "ce este un pion ?",
+          "answer": "pionul este o piesa de sah care se poate muta cu un patratel inainte in mod obisnuit . daca este prima mutare a pionului , acesta se poate muta cu doua patratele inainte . pionul poate captura pe diagonala , cu un patratel inainte si unul la stanga sau la dreapta ."
+     },
+     {
+          "order_number": 113,
+          "question": "ce este o tura ?",
+          "answer": "tura este o piesa de sah care se poate muta oricat de multe patratele , pe linii si coloane , atat in sus cat si in jos sau la stanga si la dreapta ."
+     },
+     {
+          "order_number": 114,
+          "question": "ce este o dama ?",
+          "answer": "dama este o piesa de sah care combina miscarile turnului si nebunului , putand deci sa fie mutata pe liniile , coloanele si diagonalele ce se intersecteaza cu patratul pe care se afla ."
+     },
+     {
+          "order_number": 115,
+          "question": "care este cea mai puternica piesa ?",
+          "answer": "dama este cea mai puternica piesa de sah ."
+     },
+     {
+          "order_number": 116,
+          "question": "de ce este dama cea mai puternica piesa de sah ?",
+          "answer": "dama este cea mai puternica piesa de sah deoarece combina miscarile turnului si nebunului , putand deci sa fie mutata pe liniile , coloanele si diagonalele ce se intersecteaza cu patratul pe care se afla ."
+     },
+     {
+          "order_number": 117,
+          "question": "cati cai sunt pe tabla la inceputul jocului de sah ?",
+          "answer": "pe tabla sunt 4 cai la inceputul partidei ."
+     },
+     {
+          "order_number": 118,
+          "question": "cate piese sunt in fiecare set de sah ?",
+          "answer": "un set de sah contine 16 piese : un rege , o regina , doi ture , doi nebuni , doi cai si opt pioni ."
+     },
+     {
+          "order_number": 119,
+          "question": "cate tipuri de obiecte mobile exista intr-o piesa de sah sau intr-un jucator de sah ?",
+          "answer": "exista sase tipuri diferite de obiecte mobile in sah ."
+     },
+     {
+          "order_number": 120,
+          "question": "cine este creditat pentru crearea celei mai lungi probleme de sah , mat in 290 de mutari ?",
+          "answer": "otto blathy ( 1860-1939 ) ."
+     },
+     {
+          "order_number": 121,
+          "question": "care este cea mai slaba piesa de sah ?",
+          "answer": "pionul ."
+     },
+     {
+          "order_number": 122,
+          "question": "care este numarul posibilitatilor unui tur de cal ?",
+          "answer": "peste 122 de milioane ."
+     },
+     {
+          "order_number": 123,
+          "question": "ar trebui sa sacrific un nebun pentru un cal ?",
+          "answer": "nebunii sunt mai buni in pozitii deschise , iar caii sunt mai buni in pozitii inchise ."
+     },
+     {
+          "order_number": 124,
+          "question": "forma blocurilor de pe tabla de sah este ?",
+          "answer": "patrat ."
+     },
+     {
+          "order_number": 125,
           "question": "cat a durat cel mai lung joc oficial de sah ?",
           "answer": "cel mai lung joc de sah a durat 269 de mutari ( i . nikolic - arsovic , belgrad 1989 ) si s-a incheiat cu remiza ."
      },
      {
-          "order_number": 131,
+          "order_number": 126,
           "question": "de unde provine cuvantul \"mat\" ?",
           "answer": "cuvantul \"mat\" provine din arabul \"shah mat\" , care se traduce in engleza ca \"regele este mort\" ."
      },
      {
-          "order_number": 132,
+          "order_number": 127,
           "question": "ce este un nebun rau ?",
           "answer": "un \"nebun rau\" este un nebun care este pe aceeasi culoare ca propriii sai pioni centrali . un \"nebun inactiv\" este unul care este blocat de proprii sai pioni ."
      },
      {
-          "order_number": 133,
+          "order_number": 128,
           "question": "cate patrate sunt pe o tabla de sah ?",
           "answer": "o tabla de sah are 64 de patrate ."
      },
      {
-          "order_number": 134,
+          "order_number": 129,
           "question": "care este cel mai lung joc posibil ?",
           "answer": "cel mai lung joc de sah posibil are 5 .949 de mutari ."
      },
      {
-          "order_number": 135,
+          "order_number": 130,
           "question": "numarul de jocuri unice posibile de sah este mult mai mare decat numarul de electroni din univers . adevarat/fals ?",
           "answer": "adevarat . numarul de electroni este estimat la aproximativ 10^79 , in timp ce numarul de jocuri unice de sah este 10^120 ."
      },
      {
-          "order_number": 136,
+          "order_number": 131,
           "question": "de ce tabla de sah are 64 de patrate ?",
           "answer": "tabla de sah are 64 de patrate pentru ca 64 este un numar intreg , atat de lat , cat si lung , fiind cea mai potrivita alegere pentru un joc de sah ."
      },
      {
-          "order_number": 137,
+          "order_number": 132,
           "question": "la fel de tarziu ca in 1561 , rocada a fost la doua mutari . adevarat/fals ?",
           "answer": "adevarat . rocatia a constat in mutarea regelui la kb1 intr-o mutare si k-kn1 in urmatoarea mutare ."
      },
      {
-          "order_number": 138,
+          "order_number": 133,
           "question": "cum se numeste atunci cand sacrifici regina in sah ?",
           "answer": "in sah , un sacrificiu de regina este o mutare in care renunti la o regina in schimbul compensatiei tactice , pozitionale sau altele ."
      },
      {
-          "order_number": 139,
+          "order_number": 134,
           "question": "care este rezultatul celui mai lung joc ?",
           "answer": "cel mai lung joc a durat 269 de mutari si s-a incheiat cu remiza ."
      },
      {
-          "order_number": 140,
+          "order_number": 135,
           "question": "cand a fost introdusa noua mutare a pionului ?",
           "answer": "noua mutare a pionului , care permitea sa se deplaseze doua pasi in loc de unul , a fost introdusa in spania in 1280 ."
      },
      {
-          "order_number": 141,
+          "order_number": 136,
           "question": "din pozitia de start , cate moduri de mat in 2 si 3 mutari exista , respectiv ?",
           "answer": "exista opt moduri diferite de a face mat in doua mutari si 355 de moduri diferite de a face mat in trei mutari ."
      },
      {
-          "order_number": 142,
+          "order_number": 137,
           "question": "cine este cel mai tanar campion mondial la sah ?",
           "answer": "garry kasparov , in 1985 , la varsta de 22 de ani si 210 zile ."
      },
      {
-          "order_number": 143,
+          "order_number": 138,
           "question": "de ce este regina cea mai puternica piesa in sah ?",
           "answer": "regina este cea mai puternica piesa datorita razei sale lungi si capacitatii de a se deplasa in mai multe directii , fiind eficienta in executia furcilor ."
      },
      {
-          "order_number": 144,
+          "order_number": 139,
           "question": "de ce se numeste un turn rook in sah ?",
           "answer": "cuvantul \"rook\" provine din cuvantul persan \"rukh\" , care inseamna car ."
      },
      {
-          "order_number": 145,
+          "order_number": 140,
           "question": "cine este campionul mondial la sah cel mai mult timp din istorie ?",
           "answer": "dr . emanuel lasker , care a pastrat titlul pentru 26 de ani si 337 de zile ."
      },
      {
-          "order_number": 146,
+          "order_number": 141,
           "question": "care este vechea denumire a sahului ?",
           "answer": "sahul era cunoscut sub numele de \"jocul regilor\" deoarece era rezervat nobililor si regilor in trecut ."
      },
      {
-          "order_number": 147,
+          "order_number": 142,
+          "question": "cand a aparut prima data tabla de sah ?",
+          "answer": "tabla moderna de sah a aparut prima data in europa in 1090 ."
+     },
+     {
+          "order_number": 143,
+          "question": "ce este sahul passant ?",
+          "answer": "en passant este o captura a pionului care poate avea loc doar dupa ce acesta se misca doua patrate de la pozitia sa initiala ."
+     },
+     {
+          "order_number": 144,
           "question": "cand a aparut prima data tabla de sah cu patrate albe si negre alternante in europa ?",
           "answer": "in 1090 ."
      },
      {
-          "order_number": 148,
+          "order_number": 145,
           "question": "care este cea mai buna dimensiune a tablei de sah ?",
           "answer": "conform fide , inaltimea sugerata a regelui este de 9 ,5 cm , iar dimensiunea patratului pentru joc competitiv ar trebui sa fie intre 5 cm si 6 cm ."
      },
      {
-          "order_number": 149,
+          "order_number": 146,
+          "question": "in timpul celui de-al doilea razboi mondial , cine au fost unii dintre cei mai buni jucatori de sah si spargatori de coduri ?",
+          "answer": "maestrii britanici harry golombek , stuart milner-barry si h . o\u2019d . alexander au facut parte din echipa care a spart codul enigma al nazistilor ."
+     },
+     {
+          "order_number": 147,
+          "question": "cine a fost primul american care l-a invins pe un jucator sovietic intr-un turneu international la new york , in 1924 ?",
+          "answer": "charles marshall ( 1877-1944 ) ."
+     },
+     {
+          "order_number": 148,
           "question": "poti avea doua regine in sah ?",
           "answer": "da , este legal sa ai doua regine , fie adaugand o regina suplimentara la setul standard sau folosind o alta piesa pentru a reprezenta o regina ."
      },
      {
-          "order_number": 150,
+          "order_number": 149,
           "question": "cand a fost introdusa ceasul mecanic in locul clepsidrei in sah ?",
           "answer": "thomas wilson a creat primul ceas mecanic in 1883 , inlocuind clepsidra ."
      },
      {
+          "order_number": 150,
+          "question": "care este numarul record de mutari consecutive ale reginei intr-un joc ?",
+          "answer": "recordul este de 72 de mutari consecutive ale reginei in jocul mason-mackenzie din londra din 1882 ."
+     },
+     {
           "order_number": 151,
+          "question": "cine a inventat tabla de sah ?",
+          "answer": "un preot a creat tabla de sah pliabila in anul 1125 ."
+     },
+     {
+          "order_number": 152,
           "question": "cum se numesc jucatorii in primul lor an ?",
           "answer": "jucatorii in primul lor an sunt numiti \"rookies\" ."
      },
      {
-          "order_number": 152,
+          "order_number": 153,
           "question": "ce este sahul legat la ochi ?",
           "answer": "sahul la ochi se refera la capacitatea jucatorilor de a juca fara a se uita la tabla si piese ."
      },
      {
-          "order_number": 153,
+          "order_number": 154,
+          "question": "albert einstein a fost un fan al sahului pe tot parcursul vietii sale . adevarat/fals ?",
+          "answer": "fals , einstein a jucat sah in ultima parte a vietii sale ."
+     },
+     {
+          "order_number": 155,
           "question": "cum era numit sahul inainte ?",
           "answer": "inainte , sahul era numit \"jocul regilor\" , deoarece era rezervat nobililor si regilor ."
      },
      {
-          "order_number": 154,
+          "order_number": 156,
           "question": "cate deschideri diferite , incluzand variatii in cadrul deschiderilor/apelurilor mai mari , poate invata cineva in sah ?",
           "answer": "peste 1 .000 de deschideri diferite ."
      },
      {
-          "order_number": 155,
+          "order_number": 157,
           "question": "care a fost a doua carte tiparita in engleza ?",
           "answer": "a doua carte tiparita in engleza a fost despre sah ."
      },
      {
-          "order_number": 156,
+          "order_number": 158,
           "question": "cine a inventat primul program de calculator in domeniul informaticii ?",
           "answer": "alan turing ."
      },
      {
-          "order_number": 157,
+          "order_number": 159,
           "question": "care este numarul cel mai mic de mutari pentru a realiza un sah mat ?",
           "answer": "doar doua mutari pot duce la un sah mat , in ceea ce se numeste \"matul nebunului\" ."
      },
      {
-          "order_number": 158,
+          "order_number": 160,
           "question": "cine este maestrul la sah care a castigat campionatul mondial in toate cele trei formate ( eliminare , turneu si meci ) ?",
           "answer": "vishwanathan anand ( india ) ."
      },
      {
-          "order_number": 159,
+          "order_number": 161,
+          "question": "care este timpul cel mai lung inregistrat pentru un jucator de sah sa faca o mutare ?",
+          "answer": "2 ore si 20 de minute inregistrate pentru a efectua a 7-a mutare ."
+     },
+     {
+          "order_number": 162,
+          "question": "care este numarul de moduri posibile de a juca primele patru mutari pe fiecare parte intr-un joc de sah ?",
+          "answer": "318 .979 .564 .000 ."
+     },
+     {
+          "order_number": 163,
+          "question": "cati oameni stiu sa joace sah in intreaga lume ?",
+          "answer": "aproximativ 600 .000 .000 ( sase sute de milioane ) ."
+     },
+     {
+          "order_number": 164,
+          "question": "in multe limbi , ce inseamna pionul ?",
+          "answer": "un soldat de picior , sau un taran sau fermier ."
+     },
+     {
+          "order_number": 165,
+          "question": "in cadrul carui imperiu a inceput sahul in india ?",
+          "answer": "dupa cucerirea persiei de catre musulmani , imperiul gupta si-a extins influenta catre imperiul sassanid din persia si mai tarziu catre orientul mijlociu . apoi s-a raspandit in europa si rusia de acolo ."
+     },
+     {
+          "order_number": 166,
+          "question": "cum se misca regina initial ?",
+          "answer": "initial , regina putea sa se deplaseze doar cu un patrat la un moment dat , pe diagonala ."
+     },
+     {
+          "order_number": 167,
           "question": "care este numarul record de sahuri consecutive ?",
           "answer": "in meciul dintre britton si crouch din 1984 , jucatorul negru a facut 43 de sahuri consecutive adversarului sau ."
      },
      {
-          "order_number": 160,
+          "order_number": 168,
           "question": "care este recordul de mutari fara captura ?",
           "answer": "100 de mutari , in timpul meciului dintre thorton si m . walker in 1992 ."
      },
      {
-          "order_number": 161,
+          "order_number": 169,
+          "question": "care este prima mentiune a sahului in america ?",
+          "answer": "conform istoriei colonistilor olandezi de esther singleton , s-a intamplat in 1641 . new york a gazduit prima competitie de sah din statele unite in 1843 ."
+     },
+     {
+          "order_number": 170,
+          "question": "primul turneu de sah in care au participat doar programe de calculator a avut loc in ?",
+          "answer": "new york in 1970 ."
+     },
+     {
+          "order_number": 171,
+          "question": "care este cel mai scurt joc de sah din istorie ?",
+          "answer": "al 21-lea joc de meci din campionatul mondial de sah 1963 dintre mikhail botvinnik si tigran petrosian ."
+     },
+     {
+          "order_number": 172,
           "question": "care tara are cei mai multi mari maestri la sah ?",
           "answer": "rusia ."
      },
      {
-          "order_number": 162,
+          "order_number": 173,
+          "question": "cine are un record de pierderi neconsecutive in sah ?",
+          "answer": "intre 1948 si 1963 , mikhail botvinnik a castigat titlul mondial de 13 ori la rand . a castigat 95 de partide consecutive in turnee fara a pierde vreo una ( 46 de victorii si 49 de remize ) ."
+     },
+     {
+          "order_number": 174,
           "question": "sahul este jocul national al carei tari ?",
           "answer": "rusia ."
      },
      {
-          "order_number": 163,
+          "order_number": 175,
+          "question": "cine a luat primul titlu de campion mondial la sah dupa viswanathan anand ?",
+          "answer": "magnus carlsen ."
+     },
+     {
+          "order_number": 176,
           "question": "care sunt cele mai recunoscute turnee de sah pentru competitii individuale ?",
           "answer": "turneul de sah linares ( acum disparut ) si turneul de sah tata steel ."
      },
      {
-          "order_number": 164,
+          "order_number": 177,
           "question": "care este cel mai mare turneu de sah pentru echipe ?",
           "answer": "olimpiada de sah ."
      },
      {
-          "order_number": 165,
+          "order_number": 178,
           "question": "cine a fost primul copil-minune al sahului ?",
           "answer": "paul morphy . a invatat miscarile la varsta de 8 ani si a invins cei mai puternici jucatori din new orleans la 11 ani ."
      },
      {
-          "order_number": 166,
+          "order_number": 179,
+          "question": "exista o regula a mutarii de 16 in sah ?",
+          "answer": "nu ."
+     },
+     {
+          "order_number": 180,
+          "question": "exista o regula a mutarii de 13 in sah ?",
+          "answer": "nu ."
+     },
+     {
+          "order_number": 181,
           "question": "care este regula celor 50 de mutari in sah ?",
           "answer": "un jucator poate declara o remiza in sah daca nu a avut loc nicio captura sau mutare de pion in ultimele cincizeci de mutari , conform regulii celor 50 de mutari ."
      },
      {
-          "order_number": 167,
+          "order_number": 182,
           "question": "care este recordul pentru cel mai lung joc de sah din istorie ?",
           "answer": "nikoli\u0107\u2013arsovi\u0107 , belgrad 1989 , care a durat 269 de mutari si a durat 20 de ore si 15 minute pentru a finaliza un joc remizat ."
      },
      {
-          "order_number": 168,
+          "order_number": 183,
           "question": "olimpiada de sah se desfasoara la fiecare cati ani ?",
           "answer": "doi ani ."
      },
      {
-          "order_number": 169,
+          "order_number": 184,
           "question": "cine este jucatorul numarul 1 la sah in lume ?",
           "answer": "daca in considerare ratingul elo din prezent , atunci magnus carlsen ."
      },
      {
-          "order_number": 170,
+          "order_number": 185,
           "question": "la ce varsta a devenit magnus carlsen mare maestru ?",
           "answer": "la varsta de 13 ani ."
      },
      {
-          "order_number": 171,
+          "order_number": 186,
           "question": "poate un joc de sah sa dureze la nesfarsit ?",
           "answer": "cu exceptia cazului in care ambii jucatori doresc sa joace la nesfarsit , jocurile de sah nu pot dura la nesfarsit . exista o regula pentru remize care specifica ca jocul este declarat remiza dupa 50 de mutari consecutive fara captura sau miscare a piesei . prin urmare , niciun joc de sah nu poate avea mai mult de 6350 de mutari ."
      },
      {
-          "order_number": 172,
+          "order_number": 187,
           "question": "este sahul un joc olimpic ?",
           "answer": "da , din 1999 ."
      },
      {
-          "order_number": 173,
+          "order_number": 188,
           "question": "este blocajul un castig in sah ?",
           "answer": "intr-un blocaj sah , jucatorul ale carui este randul sa mute nu este in sah , dar nici nu are nicio mutare legala . regulile de sah stabilesc ca atunci cand are loc un blocaj sah , meciul se incheie cu o remiza ."
      },
      {
-          "order_number": 174,
+          "order_number": 189,
           "question": "care tara a castigat cele mai multe medalii de aur olimpice ?",
           "answer": "uniunea sovietica ."
      },
      {
-          "order_number": 175,
+          "order_number": 190,
           "question": "care este cel mai inalt titlu pe care un jucator de sah il poate obtine ?",
           "answer": "mare maestru ."
      },
      {
-          "order_number": 176,
+          "order_number": 191,
           "question": "poate un rege sa faca un sah ?",
           "answer": "nu ."
      },
      {
-          "order_number": 177,
+          "order_number": 192,
           "question": "cum devii un mare maestru ?",
           "answer": "un jucator trebuie sa obtina in mod obisnuit trei norme de mare maestru pentru a obtine titlul . in plus , pentru a deveni mare maestru , ratingul fide al jucatorului trebuie sa fi depasit la un moment dat 2500 ."
      },
      {
-          "order_number": 178,
+          "order_number": 193,
           "question": "cine a castigat toate cele 34 de jocuri la turneul mentionat anterior din berlin , 1865 ?",
           "answer": "gustav neumann ."
      },
      {
-          "order_number": 179,
+          "order_number": 194,
           "question": "la turneul link\u00f6ping din 1969 , cine a pierdut toate cele 13 jocuri depasind timpul de control ?",
           "answer": "friedrich s\u00e4misch ."
      },
      {
-          "order_number": 180,
+          "order_number": 195,
           "question": "cine este cel mai tanar maestru ?",
           "answer": "jordy mont-reynaud la varsta de 10 ani si 7 luni ( 1994 ) ."
      },
      {
-          "order_number": 181,
+          "order_number": 196,
           "question": "cum se numeste un rezultat egal in sah ?",
           "answer": "remiza ."
      },
      {
-          "order_number": 182,
+          "order_number": 197,
           "question": "cine este cel mai in varsta jucator care a devenit maestru al sahului ?",
           "answer": "oscar shapiro , la varsta de 74 de ani ."
      },
      {
-          "order_number": 183,
+          "order_number": 198,
           "question": "poti avea 3 regine in sah ?",
           "answer": "da ."
      },
      {
-          "order_number": 184,
+          "order_number": 199,
           "question": "poate un pion sa omoare o regina ?",
           "answer": "da ."
      },
      {
-          "order_number": 185,
+          "order_number": 200,
           "question": "ce este o repetare tripla in sah ?",
           "answer": "regula repetarii triple , cunoscuta si sub denumirea de repetare a pozitiei , afirma ca un jucator poate declara o remiza in jocurile de sah si anumite alte jocuri abstracte daca aceeasi pozitie apare de trei ori , sau o va face dupa urmatoarea sa mutare , cu acelasi jucator la mutare ."
      },
      {
-          "order_number": 186,
+          "order_number": 201,
+          "question": "care tara a inventat sahul ?",
+          "answer": "india ."
+     },
+     {
+          "order_number": 202,
+          "question": "ce inseamna fm in sah ?",
+          "answer": "fide master ( abreviat fm ) . modul obisnuit pentru ca un jucator sa se califice pentru titlul de maestru fide este obtinerea unui rating fide de 2300 sau mai mult ."
+     },
+     {
+          "order_number": 203,
           "question": "cine este cel mai mare jucator de sah din toate timpurile ?",
           "answer": "discutabil , dar garry kasparov ."
      },
      {
-          "order_number": 187,
+          "order_number": 204,
           "question": "cand un computer l-a invins pentru prima data pe un jucator uman puternic in sah ?",
           "answer": "deep blue l-a invins pe garry kasparov in primul joc al unui turneu de sase jocuri pe 10 februarie 1996 , fiind prima data cand un computer a invins vreodata un om intr-un meci de sah competitiv ."
      },
      {
-          "order_number": 188,
+          "order_number": 205,
           "question": "ce miscare este ilegala in sah ?",
           "answer": "cu exceptia capturarii unei piese a adversarului , o piesa se muta doar pe un patrat liber . mutarea pe un patrat unde deja o piesa de a ta nu este permis . in plus , piesele nu pot sari peste celelalte , cu exceptia oricarei miscari a calului si rocada ."
      },
      {
-          "order_number": 189,
+          "order_number": 206,
           "question": "cine are cel mai mare rating fide ?",
           "answer": "magnus carlsen a obtinut pana in prezent cel mai mare rating fide dintotdeauna , de 2882 ."
      },
      {
-          "order_number": 190,
+          "order_number": 207,
           "question": "care este primul joc de sah inregistrat ?",
           "answer": "un joc din secolul al x-lea jucat intre un istoric din bagdad si un elev al sau ."
      },
      {
-          "order_number": 191,
+          "order_number": 208,
           "question": "ce rating are un mare maestru ?",
           "answer": "intre 2400 si 2500 majoritatea maestrilor internationali im si unii maestri mari gm ; intre 2300 si 2400 maestri fide fm ; intre 2200 si 2300 candidati la maestri fide cm , majoritatea maestrilor nationali ; intre 2000 si 2200 candidati la maestri , experti sua ."
      },
      {
-          "order_number": 192,
+          "order_number": 209,
           "question": "cat dureaza sahul blitz ?",
           "answer": "fiecare participant primeste 3 minute plus inca 2 secunde pentru fiecare mutare in cadrul campionatului mondial blitz fide , incepand cu prima mutare . sahul blitz este descris de uscf ca jocuri cu limite de timp de la 5 pana la 10 minute pentru fiecare jucator ."
      },
      {
-          "order_number": 193,
+          "order_number": 210,
           "question": "ce este sistemul de rating elo ?",
           "answer": "sistemul de rating elo este o metoda de calcul a nivelurilor relative de abilitati ale jucatorilor in jocuri cu suma zero , cum ar fi sahul ."
-     },
-     {
-          "order_number": 194,
-          "question": "cum muta regele ?",
-          "answer": "regele se poate muta in orice directie , dar numai un patrat la fiecare mutare . regele nu poate muta intr-un patrat care este atacat de o piesa a adversarului , cu exceptia cazului in care piesa poate fi capturata ."
-     },
-     {
-          "order_number": 195,
-          "question": "cum notam o captura in sah ?",
-          "answer": "o captura este notata prin simbolul \"x\" intre pozitia de plecare si cea de sosire a piesei care captureaza ."
-     },
-     {
-          "order_number": 196,
-          "question": "cum notam o mutare de rocada ?",
-          "answer": "o mutare de rocada este notata cu \"0-0\" sau \"0-0-0\" , in functie de directia in care se face rocada ."
-     },
-     {
-          "order_number": 197,
-          "question": "cum notam o mutare de pion ?",
-          "answer": "o mutare de pion este notata prin pozitia de plecare a pionului , urmata de pozitia de sosire a acestuia ."
-     },
-     {
-          "order_number": 198,
-          "question": "cum notam o mutare de nebun ?",
-          "answer": "o mutare de nebun este notata prin \"b\" ( de la \"bishop\" , care inseamna nebun in engleza ) , urmata de pozitia de sosire a acestuia ."
-     },
-     {
-          "order_number": 199,
-          "question": "cum notam o mutare de turn ?",
-          "answer": "o mutare de turn este notata prin \"r\" ( de la \"rook\" , care inseamna turn in engleza ) , urmata de pozitia de sosire a acestuia ."
-     },
-     {
-          "order_number": 200,
-          "question": "cum notam o mutare de dama ?",
-          "answer": "o mutare de dama este notata prin \"q\" ( de la \"queen\" , care inseamna dama in engleza ) , urmata de pozitia de sosire a acestuia ."
-     },
-     {
-          "order_number": 201,
-          "question": "cum notam o mutare de rege ?",
-          "answer": "o mutare de rege este notata prin \"k\" ( de la \"king\" , care inseamna rege in engleza ) , urmata de pozitia de sosire a acestuia ."
-     },
-     {
-          "order_number": 202,
-          "question": "cum notam o mutare de nebun care captureaza ?",
-          "answer": "o mutare de nebun care captureaza este notata prin \"b\" ( de la \"bishop\" , care inseamna nebun in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia ."
-     },
-     {
-          "order_number": 203,
-          "question": "cum notam o mutare de turn care captureaza ?",
-          "answer": "o mutare de turn care captureaza este notata prin \"r\" ( de la \"rook\" , care inseamna turn in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia ."
-     },
-     {
-          "order_number": 204,
-          "question": "cum notam o mutare de dama care captureaza ?",
-          "answer": "o mutare de dama care captureaza este notata prin \"q\" ( de la \"queen\" , care inseamna dama in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia ."
-     },
-     {
-          "order_number": 205,
-          "question": "cum notam o mutare de rege care captureaza ?",
-          "answer": "o mutare de rege care captureaza este notata prin \"k\" ( de la \"king\" , care inseamna rege in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia ."
-     },
-     {
-          "order_number": 206,
-          "question": "cum notam o mutare de cal care face sah ?",
-          "answer": "o mutare de cal care face sah este notata prin \"n\" ( de la \"knight\" , care inseamna cal in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia , urmata de \"+\" ."
-     },
-     {
-          "order_number": 207,
-          "question": "cum notam o mutare de nebun care face sah ?",
-          "answer": "o mutare de nebun care face sah este notata prin \"b\" ( de la \"bishop\" , care inseamna nebun in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia , urmata de \"+\" ."
-     },
-     {
-          "order_number": 208,
-          "question": "cum notam o mutare de turn care face sah ?",
-          "answer": "o mutare de turn care face sah este notata prin \"r\" ( de la \"rook\" , care inseamna turn in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia , urmata de \"+\" ."
-     },
-     {
-          "order_number": 209,
-          "question": "cum notam o mutare de dama care face sah ?",
-          "answer": "o mutare de dama care face sah este notata prin \"q\" ( de la \"queen\" , care inseamna dama in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia , urmata de \"+\" ."
-     },
-     {
-          "order_number": 210,
-          "question": "cum notam o mutare de rege care face sah ?",
-          "answer": "o mutare de rege care face sah este notata prin \"k\" ( de la \"king\" , care inseamna rege in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia , urmata de \"+\" ."
-     },
-     {
-          "order_number": 211,
-          "question": "cum notam o mutare de nebun care face sah mat ?",
-          "answer": "o mutare de nebun care face sah mat este notata prin \"b\" ( de la \"bishop\" , care inseamna nebun in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia , urmata de \"#\" ."
-     },
-     {
-          "order_number": 212,
-          "question": "cum notam o mutare de turn care face sah mat ?",
-          "answer": "o mutare de turn care face sah mat este notata prin \"r\" ( de la \"rook\" , care inseamna turn in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia , urmata de \"#\" ."
-     },
-     {
-          "order_number": 213,
-          "question": "cum notam o mutare de dama care face sah mat ?",
-          "answer": "o mutare de dama care face sah mat este notata prin \"q\" ( de la \"queen\" , care inseamna dama in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia , urmata de \"#\" ."
-     },
-     {
-          "order_number": 214,
-          "question": "cum notam o mutare de rege care face sah mat ?",
-          "answer": "o mutare de rege care face sah mat este notata prin \"k\" ( de la \"king\" , care inseamna rege in engleza ) , urmata de \"x\" si pozitia de sosire a acestuia , urmata de \"#\" ."
-     },
-     {
-          "order_number": 215,
-          "question": "ce tipuri de remiza exista in sah ?",
-          "answer": "putem face mai multe tipuri de remiza : repetarea pozitiei , remiza prin acord , regula de 50 de mutari , patul , sahul perpetuu sau material insuficient ."
-     },
-     {
-          "order_number": 216,
-          "question": "cum fac remiza prin repetarea pozitiei ?",
-          "answer": "remiza prin repetarea pozitiei se produce atunci cand aceeasi pozitie apare de trei ori in timpul jocului . nu trebuie sa fie trei mutari consecutive , dar trebuie sa fie aceeasi pozitie de trei ori ."
-     },
-     {
-          "order_number": 217,
-          "question": "cum fac remiza prin acord ?",
-          "answer": "remiza prin acord se produce atunci cand ambii jucatori sunt de acord cu remiza ."
-     },
-     {
-          "order_number": 218,
-          "question": "cum fac remiza prin regula de 50 de mutari ?",
-          "answer": "remiza prin regula de 50 de mutari se produce atunci cand nu a avut loc nicio captura sau mutare de pion in ultimele cincizeci de mutari ."
-     },
-     {
-          "order_number": 219,
-          "question": "cum fac remiza prin pat ?",
-          "answer": "remiza prin pat se produce atunci cand un jucator nu este in sah , dar nu are nicio mutare legala ."
-     },
-     {
-          "order_number": 220,
-          "question": "cum fac remiza prin sah perpetuu ?",
-          "answer": "remiza prin sah perpetuu se produce atunci cand un jucator poate face sah adversarului sau de mai multe ori , dar nu poate face sah mat ."
-     },
-     {
-          "order_number": 221,
-          "question": "cum fac remiza prin material insuficient ?",
-          "answer": "remiza prin material insuficient se produce atunci cand niciunul dintre jucatori nu are piese suficiente pentru a face sah mat ."
-     },
-     {
-          "order_number": 222,
-          "question": "ce este un fork ?",
-          "answer": "un fork este o tactica in care o piesa ataca doua sau mai multe piese simultan ."
-     },
-     {
-          "order_number": 223,
-          "question": "ce concepte exista in sah ?",
-          "answer": "in sah exista concepte precum : deschidere , mijlocul jocului , finalul jocului , dezvoltare , controlul centrului , atac , aparare , sacrificiu , combinatie , tactic , strategie , pozitie , pozitie inchisa , pozitie deschisa , pozitie semi-deschisa , pozitie simetrica , pozitie asimetrica , pozitie echilibrata , pozitie neechilibrata , pozitie favorabila , pozitie nefavorabila , pozitie castigatoare , pozitie egala , pozitie pierzatoare , pozitie castigatoare , pozitie pierzatoare , pozitie castigatoare , pozitie remiza ."
-     },
-     {
-          "order_number": 224,
-          "question": "ce este mijlocul jocului ?",
-          "answer": "mijlocul jocului este a doua parte a jocului , in care jucatorii isi dezvolta piesele , isi protejeaza regele , isi protejeaza piesele si isi ataca adversarul ."
-     },
-     {
-          "order_number": 225,
-          "question": "ce este dezvoltarea ?",
-          "answer": "dezvoltarea este procesul prin care jucatorii isi muta piesele de pe pozitiile initiale , pentru a le putea folosi in joc ."
-     },
-     {
-          "order_number": 226,
-          "question": "ce este controlul centrului ?",
-          "answer": "controlul centrului este procesul prin care jucatorii isi muta piesele in centrul tablei , pentru a avea mai multe optiuni de joc ."
-     },
-     {
-          "order_number": 227,
-          "question": "ce este atacul ?",
-          "answer": "atacul este procesul prin care jucatorii isi muta piesele in jurul pieselor adversarului , pentru a le ataca ."
-     },
-     {
-          "order_number": 228,
-          "question": "ce este apararea ?",
-          "answer": "apararea este procesul prin care jucatorii isi muta piesele in jurul pieselor proprii , pentru a le proteja de atacurile adversarului ."
-     },
-     {
-          "order_number": 229,
-          "question": "ce este sacrificiul ?",
-          "answer": "sacrificiul este procesul prin care jucatorii isi muta piesele in pozitii in care vor fi capturate , dar care vor afecta pozitia adversarului negativ ."
-     },
-     {
-          "order_number": 230,
-          "question": "ce este combinatia ?",
-          "answer": "combinatia este procesul prin care jucatorii isi muta piesele in pozitii in care vor fi capturate , dar care vor afecta pozitia adversarului negativ ."
-     },
-     {
-          "order_number": 231,
-          "question": "ce este o strategie ?",
-          "answer": "o strategie este procesul prin care jucatorii isi muta piesele in pozitii in care vor fi capturate , dar care vor afecta pozitia adversarului negativ ."
-     },
-     {
-          "order_number": 232,
-          "question": "ce este deschiderea ?",
-          "answer": "deschiderea este prima parte a jocului , in care jucatorii isi dezvolta piesele , isi protejeaza regele si isi fac rocada ."
-     },
-     {
-          "order_number": 233,
-          "question": "ce deschideri exista in sah ?",
-          "answer": "in sah exista deschideri populare precum : deschiderea italiana , deschiderea spaniola , deschiderea engleza , deschiderea siciliana , deschiderea scandinava , deschiderea frantuzeasca , deschiderea caro-kann , deschiderea pirc , deschiderea alekhine , deschiderea reti , deschiderea nimzo-indiana , deschiderea nimzowitsch , deschiderea slava , deschiderea catalana , deschiderea ruy lopez , deschiderea scotch , deschiderea four knights , deschiderea kings indian , deschiderea queens indian , deschiderea queens gambit , deschiderea kings gambit , deschiderea evans , deschiderea vienna , deschiderea kings indian attack , deschiderea kings indian defense , deschiderea queens indian defense , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted , deschiderea queens gambit declined , deschiderea queens gambit accepted ."
      }
 ]
