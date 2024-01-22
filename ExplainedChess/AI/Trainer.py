@@ -24,7 +24,7 @@ class Trainer:
         else:
             self.model = Model().to(self.device)  # Move the model to GPU
         self.criterion = nn.MSELoss()
-        self.optimizer = torch.optim.Adam(self.model.parameters(), lr=0.0000001)
+        self.optimizer = torch.optim.Adam(self.model.parameters(), lr=0.000001)
 
     def train(self):
         total_loss = 0.0
