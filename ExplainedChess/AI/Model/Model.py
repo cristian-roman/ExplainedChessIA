@@ -1,6 +1,7 @@
 import torch.nn as nn
 from AI.Model.ModelConfig import ModelConfig
 
+
 class Model(nn.Module):
     def __init__(self):
         super(Model, self).__init__()

@@ -466,3 +466,595 @@ Ce este deschiderea?
 Deschiderea este prima parte a jocului, in care jucatorii isi dezvolta piesele, isi protejeaza regele si isi fac rocada.
 Ce deschideri exista in sah?
 In sah exista deschideri populare precum: deschiderea italiana, deschiderea spaniola, deschiderea engleza, deschiderea siciliana, deschiderea scandinava, deschiderea frantuzeasca, deschiderea caro-kann, deschiderea pirc, deschiderea alekhine, deschiderea reti, deschiderea nimzo-indiana, deschiderea nimzowitsch, deschiderea slava, deschiderea catalana, deschiderea ruy lopez, deschiderea scotch, deschiderea four knights, deschiderea kings indian, deschiderea queens indian, deschiderea queens gambit, deschiderea kings gambit, deschiderea evans, deschiderea vienna, deschiderea kings indian attack, deschiderea kings indian defense, deschiderea queens indian defense, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted, deschiderea queens gambit declined, deschiderea queens gambit accepted.
+Cati cai sunt pe tabla la inceputul jocului de sah?
+Pe tabla sunt 4 cai la inceputul partidei.
+Cate piese sunt in fiecare set de sah?
+Un set de sah contine 16 piese: un rege, o regina, doi ture, doi nebuni, doi cai si opt pioni.
+Cate tipuri de obiecte mobile exista intr-o piesa de sah sau intr-un jucator de sah?
+Exista sase tipuri diferite de obiecte mobile in sah.
+Cine este creditat pentru crearea celei mai lungi probleme de sah, mat in 290 de mutari?
+Otto Blathy (1860-1939).
+Care este cea mai slaba piesa de sah?
+Pionul.
+Care este numarul posibilitatilor unui tur de cal?
+Peste 122 de milioane.
+Ar trebui sa sacrific un nebun pentru un cal?
+Nebunii sunt mai buni in pozitii deschise, iar caii sunt mai buni in pozitii inchise.
+Forma blocurilor de pe tabla de sah este?
+Patrat.
+Cat a durat cel mai lung joc oficial de sah?
+Cel mai lung joc de sah a durat 269 de mutari (I. Nikolic - Arsovic, Belgrad 1989) si s-a incheiat cu remiza.
+De unde provine cuvantul "mat"?
+Cuvantul "mat" provine din arabul "shah mat", care se traduce in engleza ca "Regele este mort".
+Ce este un nebun rau?
+Un "nebun rau" este un nebun care este pe aceeasi culoare ca propriii sai pioni centrali. Un "nebun inactiv" este unul care este blocat de proprii sai pioni.
+Cate patrate sunt pe o tabla de sah?
+O tabla de sah are 64 de patrate.
+Care este cel mai lung joc posibil?
+Cel mai lung joc de sah posibil are 5.949 de mutari.
+Numarul de jocuri unice posibile de sah este mult mai mare decat numarul de electroni din univers. Adevarat/Fals?
+Adevarat. Numarul de electroni este estimat la aproximativ 10^79, in timp ce numarul de jocuri unice de sah este 10^120.
+De ce tabla de sah are 64 de patrate?
+Tabla de sah are 64 de patrate pentru ca 64 este un numar intreg, atat de lat, cat si lung, fiind cea mai potrivita alegere pentru un joc de sah.
+La fel de tarziu ca in 1561, rocada a fost la doua mutari. Adevarat/Fals?
+Adevarat. Rocatia a constat in mutarea regelui la KB1 intr-o mutare si K-KN1 in urmatoarea mutare.
+Cum se numeste atunci cand sacrifici regina in sah?
+In sah, un sacrificiu de regina este o mutare in care renunti la o regina in schimbul compensatiei tactice, pozitionale sau altele.
+Care este rezultatul celui mai lung joc?
+Cel mai lung joc a durat 269 de mutari si s-a incheiat cu remiza.
+Cate blocuri sunt pe o tabla de sah?
+O tabla de sah are 204 de blocuri (64 + 49 + 36 + 25 + 16 + 9 + 4 + 1).
+Cand a fost introdusa noua mutare a pionului?
+Noua mutare a pionului, care permitea sa se deplaseze doua pasi in loc de unul, a fost introdusa in Spania in 1280.
+Din pozitia de start, cate moduri de mat in 2 si 3 mutari exista, respectiv?
+Exista opt moduri diferite de a face mat in doua mutari si 355 de moduri diferite de a face mat in trei mutari.
+Cine este cel mai tanar campion mondial la sah?
+Garry Kasparov, in 1985, la varsta de 22 de ani si 210 zile.
+De ce este regina cea mai puternica piesa in sah?
+Regina este cea mai puternica piesa datorita razei sale lungi si capacitatii de a se deplasa in mai multe directii, fiind eficienta in executia furcilor.
+De ce se numeste un turn rook in sah?
+Cuvantul "rook" provine din cuvantul persan "rukh", care inseamna car.
+Cine este campionul mondial la sah cel mai mult timp din istorie?
+Dr. Emanuel Lasker, care a pastrat titlul pentru 26 de ani si 337 de zile.
+Care este vechea denumire a sahului?
+Sahul era cunoscut sub numele de "Jocul regilor" deoarece era rezervat nobililor si regilor in trecut.
+Cand a aparut prima data tabla de sah?
+Tabla moderna de sah a aparut prima data in Europa in 1090.
+Ce este sahul Passant?
+En passant este o captura a pionului care poate avea loc doar dupa ce acesta se misca doua patrate de la pozitia sa initiala.
+Cand a aparut prima data tabla de sah cu patrate albe si negre alternante in Europa?
+In 1090.
+Care este cea mai buna dimensiune a tablei de sah?
+Conform FIDE, inaltimea sugerata a regelui este de 9,5 cm, iar dimensiunea patratului pentru joc competitiv ar trebui sa fie intre 5 cm si 6 cm.
+In timpul celui de-al Doilea Razboi Mondial, cine au fost unii dintre cei mai buni jucatori de sah si spargatori de coduri?
+Maestrii britanici Harry Golombek, Stuart Milner-Barry si H. O’D. Alexander au facut parte din echipa care a spart codul Enigma al nazistilor.
+Cine a fost primul american care l-a invins pe un jucator sovietic intr-un turneu international la New York, in 1924?
+Charles Marshall (1877-1944).
+Poti avea doua regine in sah?
+Da, este legal sa ai doua regine, fie adaugand o regina suplimentara la setul standard sau folosind o alta piesa pentru a reprezenta o regina.
+Cand a fost introdusa ceasul mecanic in locul clepsidrei in sah?
+Thomas Wilson a creat primul ceas mecanic in 1883, inlocuind clepsidra.
+Care este numarul record de mutari consecutive ale reginei intr-un joc?
+Recordul este de 72 de mutari consecutive ale reginei in jocul Mason-Mackenzie din Londra din 1882.
+Cine a inventat tabla de sah?
+Un preot a creat tabla de sah pliabila in anul 1125.
+Cum se numesc jucatorii in primul lor an?
+Jucatorii in primul lor an sunt numiti "rookies".
+Ce este sahul legat la ochi?
+Sahul la ochi se refera la capacitatea jucatorilor de a juca fara a se uita la tabla si piese.
+Albert Einstein a fost un fan al sahului pe tot parcursul vietii sale. Adevarat/Fals?
+Fals, Einstein a jucat sah in ultima parte a vietii sale.
+Cum era numit sahul inainte?
+Inainte, sahul era numit "Jocul regilor", deoarece era rezervat nobililor si regilor.
+Cate deschideri diferite, incluzand variatii in cadrul deschiderilor/apelurilor mai mari, poate invata cineva in sah?
+Peste 1.000 de deschideri diferite.
+Care a fost a doua carte tiparita in engleza?
+A doua carte tiparita in engleza a fost despre sah.
+Cine a inventat primul program de calculator in domeniul informaticii?
+Alan Turing.
+Care este numarul cel mai mic de mutari pentru a realiza un sah mat?
+Doar doua mutari pot duce la un sah mat, in ceea ce se numeste "matul nebunului".
+Cine este maestrul la sah care a castigat Campionatul Mondial in toate cele trei formate (eliminare, turneu si meci)?
+Vishwanathan Anand (India).
+Care este timpul cel mai lung inregistrat pentru un jucator de sah sa faca o mutare?
+2 ore si 20 de minute inregistrate pentru a efectua a 7-a mutare.
+Care este numarul de moduri posibile de a juca primele patru mutari pe fiecare parte intr-un joc de sah?
+318.979.564.000.
+Cati oameni stiu sa joace sah in intreaga lume?
+Aproximativ 600.000.000 (sase sute de milioane).
+In multe limbi, ce inseamna Pionul?
+Un soldat de picior, sau un taran sau fermier.
+In cadrul carui imperiu a inceput sahul in India?
+Dupa cucerirea Persiei de catre musulmani, Imperiul Gupta si-a extins influenta catre Imperiul Sassanid din Persia si mai tarziu catre Orientul Mijlociu. Apoi s-a raspandit in Europa si Rusia de acolo.
+Cum se misca regina initial?
+Initial, Regina putea sa se deplaseze doar cu un patrat la un moment dat, pe diagonala. 
+Care este numarul record de sahuri consecutive?
+In meciul dintre Britton si Crouch din 1984, jucatorul negru a facut 43 de sahuri consecutive adversarului sau.
+Care este recordul de mutari fara captura?
+100 de mutari, in timpul meciului dintre Thorton si M. Walker in 1992.
+Care este prima mentiune a sahului in America?
+Conform istoriei colonistilor olandezi de Esther Singleton, s-a intamplat in 1641. New York a gazduit prima competitie de sah din Statele Unite in 1843.
+Primul turneu de sah in care au participat doar programe de calculator a avut loc in?
+New York in 1970.
+Care este cel mai scurt joc de sah din istorie?
+Al 21-lea joc de meci din Campionatul Mondial de Sah 1963 dintre Mikhail Botvinnik si Tigran Petrosian.
+Care tara are cei mai multi mari maestri la sah?
+Rusia.
+Cine are un record de pierderi neconsecutive in sah?
+Intre 1948 si 1963, Mikhail Botvinnik a castigat titlul mondial de 13 ori la rand. A castigat 95 de partide consecutive in turnee fara a pierde vreo una (46 de victorii si 49 de remize).
+Sahul este jocul national al carei tari?
+Rusia.
+Cine a luat primul titlu de campion mondial la sah dupa Viswanathan Anand?
+Magnus Carlsen.
+Care sunt cele mai recunoscute turnee de sah pentru competitii individuale?
+Turneul de sah Linares (acum disparut) si turneul de sah Tata Steel.
+Care este cel mai mare turneu de sah pentru echipe?
+Olimpiada de Sah.
+Cine a fost primul copil-minune al sahului?
+Paul Morphy. A invatat miscarile la varsta de 8 ani si a invins cei mai puternici jucatori din New Orleans la 11 ani.
+Exista o regula a mutarii de 16 in sah?
+Nu.
+Exista o regula a mutarii de 13 in sah?
+Nu.
+Care este regula celor 50 de mutari in sah?
+Un jucator poate declara o remiza in sah daca nu a avut loc nicio captura sau mutare de pion in ultimele cincizeci de mutari, conform regulii celor 50 de mutari.
+Care este recordul pentru cel mai lung joc de sah din istorie?
+Nikolić–Arsović, Belgrad 1989, care a durat 269 de mutari si a durat 20 de ore si 15 minute pentru a finaliza un joc remizat.
+Olimpiada de Sah se desfasoara la fiecare catiani?
+Doi ani.
+Organizata de FIDE, Olimpiada de Sah a avut loc pentru prima data in?
+Cine este jucatorul numarul 1 la sah in lume?
+Daca in considerare ratingul elo din prezent, atunci Magnus Carlsen.
+La ce varsta a devenit Magnus Carlsen Mare Maestru?
+La varsta de 13 ani.
+Poate un joc de sah sa dureze la nesfarsit?
+Cu exceptia cazului in care AMBII jucatori doresc sa joace la nesfarsit, jocurile de sah nu pot dura la nesfarsit. Exista o regula pentru remize care specifica ca jocul este declarat remiza dupa 50 de mutari consecutive fara captura sau miscare a piesei. Prin urmare, niciun joc de sah nu poate avea mai mult de 6350 de mutari.
+Este sahul un joc olimpic?
+Da, din 1999.
+Este blocajul un castig in sah?
+Intr-un blocaj sah, jucatorul ale carui este randul sa mute nu este in sah, dar nici nu are nicio mutare legala. Regulile de sah stabilesc ca atunci cand are loc un blocaj sah, meciul se incheie cu o remiza.
+Care tara a castigat cele mai multe medalii de aur olimpice?
+Uniunea Sovietica.
+Care este cel mai inalt titlu pe care un jucator de sah il poate obtine?
+Mare Maestru.
+Poate un rege sa faca un sah?
+Nu.
+Cum devii un mare maestru?
+Un jucator trebuie sa obtina in mod obisnuit trei norme de Mare Maestru pentru a obtine titlul. In plus, pentru a deveni Mare Maestru, ratingul FIDE al jucatorului trebuie sa fi depasit la un moment dat 2500.
+
+Cine a castigat toate cele 34 de jocuri la turneul mentionat anterior din Berlin, 1865?
+Gustav Neumann.
+La turneul Linköping din 1969, cine a pierdut toate cele 13 jocuri depasind timpul de control?
+Friedrich Sämisch.
+Cine este cel mai tanar Maestru?
+Jordy Mont-Reynaud la varsta de 10 ani si 7 luni (1994).
+Cum se numeste un rezultat egal in sah?
+Remiza.
+Cine este cel mai in varsta jucator care a devenit Maestru al Sahului?
+Oscar Shapiro, la varsta de 74 de ani.
+Poti avea 3 regine in sah?
+Da.
+Poate un pion sa omoare o regina?
+Da.
+Ce este o repetare tripla in sah?
+Regula repetarii triple, cunoscuta si sub denumirea de repetare a pozitiei, afirma ca un jucator poate declara o remiza in jocurile de sah si anumite alte jocuri abstracte daca aceeasi pozitie apare de trei ori, sau o va face dupa urmatoarea sa mutare, cu acelasi jucator la mutare.
+Care tara a inventat sahul?
+India.
+Ce inseamna FM in sah?
+FIDE Master (abreviat FM). Modul obisnuit pentru ca un jucator sa se califice pentru titlul de Maestru FIDE este obtinerea unui rating FIDE de 2300 sau mai mult.
+Cine este cel mai mare jucator de sah din toate timpurile?
+Discutabil, dar Garry Kasparov.
+Cand un computer l-a invins pentru prima data pe un jucator uman puternic in sah?
+Deep Blue l-a invins pe Garry Kasparov in primul joc al unui turneu de sase jocuri pe 10 februarie 1996, fiind prima data cand un computer a invins vreodata un om intr-un meci de sah competitiv.
+Ce miscare este ilegala in sah?
+Cu exceptia capturarii unei piese a adversarului, o piesa se muta doar pe un patrat liber. Mutarea pe un patrat unde deja o piesa de a ta nu este permis. In plus, piesele nu pot sari peste celelalte, cu exceptia oricarei miscari a calului si rocada.
+Cine are cel mai mare rating FIDE?
+Magnus Carlsen a obtinut pana in prezent cel mai mare rating FIDE dintotdeauna, de 2882.
+Care este primul joc de sah inregistrat?
+Un joc din secolul al X-lea jucat intre un istoric din Bagdad si un elev al sau.
+Ce rating are un Mare Maestru?
+2400–2500 majoritatea Maestrilor Internationali IM si unii Maestri Mari GM; 2300–2400 Maestri FIDE FM; 2200–2300 Candidati la Maestri FIDE CM, majoritatea maestrilor nationali; 2000–2200 Candidati la maestri, experti SUA.
+Cat dureaza sahul blitz?
+Fiecare participant primeste 3 minute plus inca 2 secunde pentru fiecare mutare in cadrul Campionatului Mondial Blitz FIDE, incepand cu prima mutare. Sahul blitz este descris de USCF ca jocuri cu limite de timp de la 5 pana la 10 minute pentru fiecare jucator.
+Ce este sahul Elo?
+Sistemul de rating Elo este o metoda de calcul a nivelurilor relative de abilitati ale jucatorilor in jocuri cu suma zero, cum ar fi sahul.
+Cum muta regina in sah?
+Regina in sah se poate muta pe vertical, orizontal sau diagonal, oricate patratele.
+Cum se muta regina in sah?
+Regina in sah se poate muta pe vertical, orizontal sau diagonal, oricate patratele.
+Cum poti muta o regina in sah?
+Regina in sah se poate muta pe vertical, orizontal sau diagonal, oricate patratele.
+Cum muti regina in sah?
+Regina in sah se poate muta pe vertical, orizontal sau diagonal, oricate patratele.
+Cum merge regina in sah?
+Regina in sah se poate misca vertical, orizontal sau diagonal, oricate patratele doreste.
+Cum merge regina?
+Regina se poate misca vertical, orizontal sau diagonal, oricate patratele doreste.
+Cum se misca regina?
+Regina se poate misca vertical, orizontal sau diagonal, oricate patratele doreste.
+Cum se misca regina in sah?
+Regina in sah se poate misca vertical, orizontal sau diagonal, oricate patratele doreste.
+Cum poti muta regina?
+Regina se poate muta pe vertical, orizontal sau diagonal, oricate patratele.
+Cum poti muta regina in sah?
+Regina in sah se poate muta pe vertical, orizontal sau diagonal, oricate patratele.
+Cum muti regina?
+Regina se poate muta pe vertical, orizontal sau diagonal, oricate patratele.
+Cum se muta regina?
+Regina se poate muta pe vertical, orizontal sau diagonal, oricate patratele.
+Cum poti muta o regina?
+Regina se poate muta pe vertical, orizontal sau diagonal, oricate patratele.
+Cum muta nebunul in sah?
+Nebunul in sah se poate muta pe diagonala, oricate patratele.
+Cum se muta nebunul in sah?
+Nebunul in sah se poate muta pe diagonala, oricate patratele.
+Cum se muta nebunul?
+Nebunul se poate muta pe diagonala, oricate patratele.
+Cum se misca nebunul?
+Nebunul se poate misca pe diagonala, oricate patratele.
+Cum merge nebunul?
+Nebunul se poate misca pe diagonala, oricate patratele.
+Cum merge nebunul in sah?
+Nebunul in sah se poate misca pe diagonala, oricate patratele.
+Cum poti muta nebunul?
+Nebunul se poate muta pe diagonala, oricate patratele.
+Cum poti muta nebunul in sah?
+Nebunul in sah se poate muta pe diagonala, oricate patratele.
+Cum muti nebunul?
+Nebunul se poate muta pe diagonala, oricate patratele.
+Cum muti nebunul in sah?
+Nebunul in sah se poate muta pe diagonala, oricate patratele.
+Cum poti muta un nebun in sah?
+Nebunul in sah se poate muta pe diagonala, oricate patratele.
+Cum se muta calul?
+Calul se poate muta in forma de L, oricate patratele.
+Cum se misca calul?
+Calul se poate misca in forma de L, oricate patratele.
+Cum merge calul?
+Calul se poate misca in forma de L, oricate patratele.
+Cum merge calul in sah?
+Calul in sah se poate misca in forma de L, oricate patratele.
+Cum poti muta calul?
+Calul se poate muta in forma de L, oricate patratele.
+Cum poti muta calul in sah?
+Calul in sah se poate muta in forma de L, oricate patratele.
+Cum muti calul?
+Calul se poate muta in forma de L, oricate patratele.
+Cum muti calul in sah?
+Calul in sah se poate muta in forma de L, oricate patratele.
+Cum poti muta un cal in sah?
+Calul in sah se poate muta in forma de L, oricate patratele.
+Cum se muta calul in sah?
+Calul in sah se poate muta in forma de L, oricate patratele.
+Cum se muta un pion in sah?
+Pionul in sah se poate muta doar inainte, pe verticala, cate un patratel, cu exceptia primului pas, cand se poate misca 2 patratele. Pionul poate manca doar in diagonala, cate un patratel.
+Cum se muta un pion?
+Pionul se poate muta doar inainte, pe verticala, cate un patratel, cu exceptia primului pas, cand se poate misca 2 patratele. Pionul poate manca doar in diagonala, cate un patratel.
+Cum se misca un pion?
+Pionul se poate misca doar inainte, pe verticala, cate un patratel, cu exceptia primului pas, cand se poate misca 2 patratele. Pionul poate manca doar in diagonala, cate un patratel.
+Cum merge un pion?
+Pionul se poate misca doar inainte, pe verticala, cate un patratel, cu exceptia primului pas, cand se poate misca 2 patratele. Pionul poate manca doar in diagonala, cate un patratel.
+Cum merge un pion in sah?
+Pionul in sah se poate misca doar inainte, pe verticala, cate un patratel, cu exceptia primului pas, cand se poate misca 2 patratele. Pionul poate manca doar in diagonala, cate un patratel.
+Cum poti muta un pion?
+Pionul se poate muta doar inainte, pe verticala, cate un patratel, cu exceptia primului pas, cand se poate muta 2 patratele. Pionul poate manca doar in diagonala, cate un patratel.
+Cum poti muta un pion in sah?
+Pionul in sah se poate muta doar inainte, pe verticala, cate un patratel, cu exceptia primului pas, cand se poate muta 2 patratele. Pionul poate manca doar in diagonala, cate un patratel.
+Cum muti un pion?
+Pionul se poate muta doar inainte, pe verticala, cate un patratel, cu exceptia primului pas, cand se poate muta 2 patratele. Pionul poate manca doar in diagonala, cate un patratel.
+Cum muti un pion in sah?
+Pionul in sah se poate muta doar inainte, pe verticala, cate un patratel, cu exceptia primului pas, cand se poate muta 2 patratele. Pionul poate manca doar in diagonala, cate un patratel.
+Cum poti muta un pion in sah?
+Pionul in sah se poate muta doar inainte, pe verticala, cate un patratel, cu exceptia primului pas, cand se poate muta 2 patratele. Pionul poate manca doar in diagonala, cate un patratel.
+Cum se muta pionul in sah?
+Pionul in sah se poate muta doar inainte, pe verticala, cate un patratel, cu exceptia primului pas, cand se poate muta 2 patratele. Pionul poate manca doar in diagonala, cate un patratel.
+Cum se muta un turn in sah?
+Turnul in sah se poate muta pe verticala sau orizontal, oricate patratele.
+Cum se muta un turn?
+Turnul se poate muta pe verticala sau orizontal, oricate patratele.
+Cum se misca un turn?
+Turnul se poate misca pe verticala sau orizontal, oricate patratele.
+Cum merge un turn?
+Turnul se poate misca pe verticala sau orizontal, oricate patratele.
+Cum merge un turn in sah?
+Turnul in sah se poate misca pe verticala sau orizontal, oricate patratele.
+Cum poti muta un turn?
+Turnul se poate muta pe verticala sau orizontal, oricate patratele.
+Cum poti muta un turn in sah?
+Turnul in sah se poate muta pe verticala sau orizontal, oricate patratele.
+Cum muti un turn?
+Turnul se poate muta pe verticala sau orizontal, oricate patratele.
+Cum muti un turn in sah?
+Turnul in sah se poate muta pe verticala sau orizontal, oricate patratele.
+Cum poti muta un turn in sah?
+Turnul in sah se poate muta pe verticala sau orizontal, oricate patratele.
+Cum se muta turnul in sah?
+Turnul in sah se poate muta pe verticala sau orizontal, oricate patratele.
+Cum se muta regele in sah?
+Regele in sah se poate muta in orice directie, cate un patratel.
+Cum se muta regele?
+Regele se poate muta in orice directie, cate un patratel.
+Cum se misca regele?
+Regele se poate misca in orice directie, cate un patratel.
+Cum merge regele?
+Regele se poate misca in orice directie, cate un patratel.
+Cum merge regele in sah?
+Regele in sah se poate muta in orice directie, cate un patratel.
+Cum poti muta regele?
+Regele se poate muta in orice directie, cate un patratel.
+Cum poti muta regele in sah?
+Regele in sah se poate muta in orice directie, cate un patratel.
+Cum muti regele?
+Regele se poate muta in orice directie, cate un patratel.
+Cum muti regele in sah?
+Regele in sah se poate muta in orice directie, cate un patratel.
+Care e distanta minima intre doi regi?
+Distanta minima intre doi regi este de 2 patratele.
+Care e distanta minima intre doi regi in sah?
+Distanta minima intre doi regi in sah este de 2 patratele.
+Ce distanta trebuie respectata intre doi regi?
+Distanta minima intre doi regi este de 2 patratele.
+Ce distanta trebuie respectata intre doi regi in sah?
+Distanta minima intre doi regi in sah este de 2 patratele.
+Cand se afla regele in sah?
+Regele se afla in sah cand este atacat de o piesa a adversarului.
+Cand se afla regele in sah mat?
+Regele se afla in sah mat cand este atacat de o piesa a adversarului si nu mai are nicio mutare posibila.
+Cum iti dai seama daca regele tau e in sah?
+Regele tau este in sah daca este atacat de o piesa a adversarului.
+Cum iti dai seama daca regele tau e in sah mat?
+Regele tau este in sah mat daca este atacat de o piesa a adversarului si nu mai are nicio mutare posibila.
+Cum vezi daca regele tau e in sah?
+Regele tau este in sah daca este atacat de o piesa a adversarului.
+Cum vezi daca regele tau e in sah mat?
+Regele tau este in sah mat daca este atacat de o piesa a adversarului si nu mai are nicio mutare posibila.
+Cum stii daca regele tau e in sah?
+Regele tau este in sah daca este atacat de o piesa a adversarului.
+Cum stii daca regele tau e in sah mat?
+Regele tau este in sah mat daca este atacat de o piesa a adversarului si nu mai are nicio mutare posibila.
+Cum poti vedea daca regele tau e in sah?
+Regele tau este in sah daca este atacat de o piesa a adversarului.
+Cum poti vedea daca regele tau e in sah mat?
+Regele tau este in sah mat daca este atacat de o piesa a adversarului si nu mai are nicio mutare posibila.
+Cum poti sti daca regele tau e in sah?
+Regele tau este in sah daca este atacat de o piesa a adversarului.
+Cum poti sti daca regele tau e in sah mat?
+Regele tau este in sah mat daca este atacat de o piesa a adversarului si nu mai are nicio mutare posibila.
+Cum poti afla daca regele tau e in sah?
+Regele tau este in sah daca este atacat de o piesa a adversarului.
+Cum poti afla daca regele tau e in sah mat?
+Regele tau este in sah mat daca este atacat de o piesa a adversarului si nu mai are nicio mutare posibila.
+Cum se termina jocul?
+Jocul se termina cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cum se termina jocul de sah?
+Jocul de sah se termina cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cum se termina un joc de sah?
+Jocul de sah se termina cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cum se finalizeaza jocul?
+Jocul se finalizeaza cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cum se finalizeaza jocul de sah?
+Jocul de sah se finalizeaza cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cum se finalizeaza un joc de sah?
+Jocul de sah se finalizeaza cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cum se termina partida?
+Partida se termina cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cum se termina partida de sah?
+Partida de sah se termina cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cum se termina o partida de sah?
+Partida de sah se termina cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cum se finalizeaza partida?
+Partida se finalizeaza cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cum se finalizeaza partida de sah?
+Partida de sah se finalizeaza cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cum se finalizeaza o partida de sah?
+Partida de sah se finalizeaza cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cand se termina jocul?
+Jocul se termina cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cand se termina jocul de sah?
+Jocul de sah se termina cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cand se termina un joc de sah?
+Jocul de sah se termina cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cand se finalizeaza jocul?
+Jocul se finalizeaza cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cand se finalizeaza jocul de sah?
+Jocul de sah se finalizeaza cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cand se finalizeaza un joc de sah?
+Jocul de sah se finalizeaza cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cand se termina partida?
+Partida se termina cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cand se termina partida de sah?
+Partida de sah se termina cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cand se termina o partida de sah?
+Partida de sah se termina cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cand se finalizeaza partida?
+Partida se finalizeaza cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cand se finalizeaza partida de sah?
+Partida de sah se finalizeaza cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Cand se finalizeaza o partida de sah?
+Partida de sah se finalizeaza cand unul dintre jucatori isi pune adversarul in sah mat, cand unul dintre jucatori renunta sau cand se ajunge la remiza.
+Ce inseamna sa ai avantaj in sah?
+Ai avantaj in sah daca ai mai multe piese decat adversarul.
+Ce inseamna sa ai dezavantaj in sah?
+Ai dezavantaj in sah daca ai mai putine piese decat adversarul.
+Ce inseamna sa ai o pozitie buna in sah?
+A avea o pozitie buna in sah inseamna sa ai control asupra centruIui tablei, sa ti protejezi regele si sa ti aranjezi piesele intr un mod coordonat si defensiv.
+Ce inseamna sa ai o pozitie proasta in sah?
+A avea o pozitie proasta in sah inseamna sa nu ai control asupra centruIui tablei, sa nu ti protejezi regele sau sa ti aranjezi piesele intr un mod dezorganizat si nu defensiv.
+Cand ai avantaj in sah?
+Ai avantaj in sah daca ai mai multe piese decat adversarul.
+Cand ai dezavantaj in sah?
+Ai dezavantaj in sah daca ai mai putine piese decat adversarul.
+Cand ai o pozitie buna in sah?
+Ai o pozitie buna in sah daca ai control asupra centruIui tablei, daca ti protejezi regele si daca ti aranjezi piesele intr un mod coordonat si defensiv.
+Cand ai o pozitie proasta in sah?
+Ai o pozitie proasta in sah daca nu ai control asupra centruIui tablei, daca nu ti protejezi regele sau daca ti aranjezi piesele intr un mod dezorganizat si nu defensiv.
+Ce inseamna sa ai avantaj in jocul de sah?
+Ai avantaj in jocul de sah daca ai mai multe piese decat adversarul.
+Ce inseamna sa ai dezavantaj in jocul de sah?
+Ai dezavantaj in jocul de sah daca ai mai putine piese decat adversarul.
+Ce inseamna sa ai o pozitie buna in jocul de sah?
+A avea o pozitie buna in jocul de sah inseamna sa ai control asupra centruIui tablei, sa ti protejezi regele si sa ti aranjezi piesele intr un mod coordonat si defensiv.
+Ce inseamna sa ai o pozitie proasta in jocul de sah?
+A avea o pozitie proasta in jocul de sah inseamna sa nu ai control asupra centruIui tablei, sa nu ti protejezi regele sau sa ti aranjezi piesele intr un mod dezorganizat si nu defensiv.
+Cand ai avantaj in jocul de sah?
+Ai avantaj in jocul de sah daca ai mai multe piese decat adversarul.
+Cand ai dezavantaj in jocul de sah?
+Ai dezavantaj in jocul de sah daca ai mai putine piese decat adversarul.
+Cand ai o pozitie buna in jocul de sah?
+Ai o pozitie buna in jocul de sah daca ai control asupra centruIui tablei, daca ti protejezi regele si daca ti aranjezi piesele intr un mod coordonat si defensiv.
+Cand ai o pozitie proasta in jocul de sah?
+Ai o pozitie proasta in jocul de sah daca nu ai control asupra centruIui tablei, daca nu ti protejezi regele sau daca ti aranjezi piesele intr un mod dezorganizat si nu defensiv.
+Ce inseamna sa ai avantaj in partida de sah?
+Ai avantaj in partida de sah daca ai mai multe piese decat adversarul.
+Ce inseamna sa ai dezavantaj in partida de sah?
+Ai dezavantaj in partida de sah daca ai mai putine piese decat adversarul.
+Ce inseamna sa ai o pozitie buna in partida de sah?
+A avea o pozitie buna in partida de sah inseamna sa ai control asupra centruIui tablei, sa ti protejezi regele si sa ti aranjezi piesele intr un mod coordonat si defensiv.
+Ce inseamna sa ai o pozitie proasta in partida de sah?
+A avea o pozitie proasta in partida de sah inseamna sa nu ai control asupra centruIui tablei, sa nu ti protejezi regele sau sa ti aranjezi piesele intr un mod dezorganizat si nu defensiv.
+Cand ai avantaj in partida de sah?
+Ai avantaj in partida de sah daca ai mai multe piese decat adversarul.
+Cand ai dezavantaj in partida de sah?
+Ai dezavantaj in partida de sah daca ai mai putine piese decat adversarul.
+Cand ai o pozitie buna in partida de sah?
+Ai o pozitie buna in partida de sah daca ai control asupra centruIui tablei, daca ti protejezi regele si daca ti aranjezi piesele intr un mod coordonat si defensiv.
+Cand ai o pozitie proasta in partida de sah?
+Ai o pozitie proasta in partida de sah daca nu ai control asupra centruIui tablei, daca nu ti protejezi regele sau daca ti aranjezi piesele intr un mod dezorganizat si nu defensiv.
+Cand poti ajunge sa ai doua regine in sah?
+Poti ajunge sa ai doua regine in sah daca pionul tau ajunge pe ultima linie a tablei si alegi sa il transformi intr o regina.
+Cand poti ajunge sa ai doua regine in jocul de sah?
+Poti ajunge sa ai doua regine in jocul de sah daca pionul tau ajunge pe ultima linie a tablei si alegi sa il transformi intr o regina.
+Cand poti ajunge sa ai doua regine in partida de sah?
+Poti ajunge sa ai doua regine in partida de sah daca pionul tau ajunge pe ultima linie a tablei si alegi sa il transformi intr o regina.
+Cum ajungi sa ai doua regine in sah?
+Poti ajunge sa ai doua regine in sah daca pionul tau ajunge pe ultima linie a tablei si alegi sa il transformi intr o regina.
+Cum ajungi sa ai doua regine in jocul de sah?
+Poti ajunge sa ai doua regine in jocul de sah daca pionul tau ajunge pe ultima linie a tablei si alegi sa il transformi intr o regina.
+Cum ajungi sa ai doua regine in partida de sah?
+Poti ajunge sa ai doua regine in partida de sah daca pionul tau ajunge pe ultima linie a tablei si alegi sa il transformi intr o regina.
+Ce se intampla cand pionul ajunge pe ultima linie a tablei?
+Cand pionul ajunge pe ultima linie a tablei, poti alege sa il transformi intr o regina, intr un turn, intr un nebun sau intr un cal.
+Ce se intampla cand pionul ajunge pe ultima linie a tablei in sah?
+Cand pionul ajunge pe ultima linie a tablei in sah, poti alege sa il transformi intr o regina, intr un turn, intr un nebun sau intr un cal.
+Ce se intampla cand pionul ajunge pe ultima linie a tablei in jocul de sah?
+Cand pionul ajunge pe ultima linie a tablei in jocul de sah, poti alege sa il transformi intr o regina, intr un turn, intr un nebun sau intr un cal.
+Ce se intampla cand pionul ajunge pe ultima linie a tablei in partida de sah?
+Cand pionul ajunge pe ultima linie a tablei in partida de sah, poti alege sa il transformi intr o regina, intr un turn, intr un nebun sau intr un cal.
+In ce poti transforma pionul cand ajunge pe ultima linie a tablei?
+Cand pionul ajunge pe ultima linie a tablei, poti alege sa il transformi intr o regina, intr un turn, intr un nebun sau intr un cal.
+In ce poti transforma pionul cand ajunge pe ultima linie a tablei in sah?
+Cand pionul ajunge pe ultima linie a tablei in sah, poti alege sa il transformi intr o regina, intr un turn, intr un nebun sau intr un cal.
+In ce poti transforma pionul cand ajunge pe ultima linie a tablei in jocul de sah?
+Cand pionul ajunge pe ultima linie a tablei in jocul de sah, poti alege sa il transformi intr o regina, intr un turn, intr un nebun sau intr un cal.
+In ce poti transforma pionul cand ajunge pe ultima linie a tablei in partida de sah?
+Cand pionul ajunge pe ultima linie a tablei in partida de sah, poti alege sa il transformi intr o regina, intr un turn, intr un nebun sau intr un cal.
+In ce poti transforma pionul?
+Poti transforma pionul intr o regina, intr un turn, intr un nebun sau intr un cal, daca ajunge pe ultima linie a tablei.
+In ce poti transforma pionul in sah?
+Poti transforma pionul intr o regina, intr un turn, intr un nebun sau intr un cal, daca ajunge pe ultima linie a tablei in sah.
+In ce poti transforma pionul in jocul de sah?
+Poti transforma pionul intr o regina, intr un turn, intr un nebun sau intr un cal, daca ajunge pe ultima linie a tablei in jocul de sah.
+In ce poti transforma pionul in partida de sah?
+Poti transforma pionul intr o regina, intr un turn, intr un nebun sau intr un cal, daca ajunge pe ultima linie a tablei in partida de sah.
+Cand poti transforma pionul?
+Poti transforma pionul daca ajunge pe ultima linie a tablei.
+Cand poti transforma pionul in sah?
+Poti transforma pionul daca ajunge pe ultima linie a tablei in sah.
+Cand poti transforma pionul in jocul de sah?
+Poti transforma pionul daca ajunge pe ultima linie a tablei in jocul de sah.
+Cand poti transforma pionul in partida de sah?
+Poti transforma pionul daca ajunge pe ultima linie a tablei in partida de sah.
+Cand poti transforma pionul intr o regina?
+Poti transforma pionul intr o regina daca ajunge pe ultima linie a tablei.
+Cand poti transforma pionul intr o regina in sah?
+Poti transforma pionul intr o regina daca ajunge pe ultima linie a tablei in sah.
+Cand poti transforma pionul intr o regina in jocul de sah?
+Poti transforma pionul intr o regina daca ajunge pe ultima linie a tablei in jocul de sah.
+Cand poti transforma pionul intr o regina in partida de sah?
+Poti transforma pionul intr o regina daca ajunge pe ultima linie a tablei in partida de sah.
+Cand poti transforma pionul intr un turn?
+Poti transforma pionul intr un turn daca ajunge pe ultima linie a tablei.
+Cand poti transforma pionul intr un turn in sah?
+Poti transforma pionul intr un turn daca ajunge pe ultima linie a tablei in sah.
+Cand poti transforma pionul intr un turn in jocul de sah?
+Poti transforma pionul intr un turn daca ajunge pe ultima linie a tablei in jocul de sah.
+Cand poti transforma pionul intr un turn in partida de sah?
+Poti transforma pionul intr un turn daca ajunge pe ultima linie a tablei in partida de sah.
+Cand poti transforma pionul intr un nebun?
+Poti transforma pionul intr un nebun daca ajunge pe ultima linie a tablei.
+Cand poti transforma pionul intr un nebun in sah?
+Poti transforma pionul intr un nebun daca ajunge pe ultima linie a tablei in sah.
+Cand poti transforma pionul intr un nebun in jocul de sah?
+Poti transforma pionul intr un nebun daca ajunge pe ultima linie a tablei in jocul de sah.
+Cand poti transforma pionul intr un nebun in partida de sah?
+Poti transforma pionul intr un nebun daca ajunge pe ultima linie a tablei in partida de sah.
+Cand poti transforma pionul intr un cal?
+Poti transforma pionul intr un cal daca ajunge pe ultima linie a tablei.
+Cand poti transforma pionul intr un cal in sah?
+Poti transforma pionul intr un cal daca ajunge pe ultima linie a tablei in sah.
+Cand poti transforma pionul intr un cal in jocul de sah?
+Poti transforma pionul intr un cal daca ajunge pe ultima linie a tablei in jocul de sah.
+Cand poti transforma pionul intr un cal in partida de sah?
+Poti transforma pionul intr un cal daca ajunge pe ultima linie a tablei in partida de sah.
+In ce ar trebui sa transformi pionul?
+Un pion ar trebui transformat intr o alta piesa (de obicei regina) atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, proces cunoscut sub denumirea de promovare a pionului.
+In ce se transforma pionul de obicei?
+De obicei, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, proces cunoscut sub denumirea de promovare a pionului.
+In ce se transforma pionul in general?
+In general, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, proces cunoscut sub denumirea de promovare a pionului.
+In ce se transforma pionul in mod normal?
+In mod normal, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, proces cunoscut sub denumirea de promovare a pionului.
+In ce se transforma pionul in mod obisnuit?
+In mod obisnuit, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, proces cunoscut sub denumirea de promovare a pionului.
+In ce se transforma pionul de cele mai multe ori?
+De cele mai multe ori, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, proces cunoscut sub denumirea de promovare a pionului.
+In ce se transforma pionul de cele mai multe ori in sah?
+De cele mai multe ori, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, proces cunoscut sub denumirea de promovare a pionului in sah.
+In ce se transforma pionul de cele mai multe ori in jocul de sah?
+De cele mai multe ori, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, proces cunoscut sub denumirea de promovare a pionului in jocul de sah.
+In ce se transforma pionul de cele mai multe ori in partida de sah?
+De cele mai multe ori, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, proces cunoscut sub denumirea de promovare a pionului in partida de sah.
+In ce se transforma pionul de obicei in sah?
+De obicei, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, proces cunoscut sub denumirea de promovare a pionului in sah.
+In ce se transforma pionul de obicei in jocul de sah?
+De obicei, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, proces cunoscut sub denumirea de promovare a pionului in jocul de sah.
+In ce se transforma pionul de obicei in partida de sah?
+De obicei, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, proces cunoscut sub denumirea de promovare a pionului in partida de sah.
+In ce se transforma pionul in general in sah?
+In general, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, proces cunoscut sub denumirea de promovarea pionului in sah.
+In ce se transforma pionul in general in jocul de sah?
+In general, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, procesul cunoscut sub denumirea de promovarea pionului in jocul de sah.
+In ce se transforma pionul in general in partida de sah?
+In general, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, procesul cunoscut sub denumirea de promovarea pionului in partida de sah.
+In ce se transforma pionul in mod normal in sah?
+In mod normal, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, procesul cunoscut sub denumirea de promovarea pionului in sah.
+In ce se transforma pionul in mod normal in jocul de sah?
+In mod normal, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, procesul cunoscut sub denumirea de promovarea pionului in jocul de sah.
+In ce se transforma pionul in mod normal in partida de sah?
+In mod normal, pionul se transforma intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari, procesul cunoscut sub denumirea de promovarea pionului in partida de sah.
+In ce este promovat pionul de obicei?
+De obicei, pionul este promovat intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari.
+In ce este promovat pionul in general?
+In general, pionul este promovat intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari.
+In ce este promovat pionul in mod normal?
+In mod normal, pionul este promovat intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari.
+In ce este promovat pionul de cele mai multe ori?
+De cele mai multe ori, pionul este promovat intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari.
+In ce este promovat pionul de obicei in sah?
+De obicei, pionul este promovat intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari in sah.
+In ce este promovat pionul de obicei in jocul de sah?
+De obicei, pionul este promovat intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari in jocul de sah.
+In ce este promovat pionul de obicei in partida de sah?
+De obicei, pionul este promovat intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari in partida de sah.
+In ce este promovat pionul in general in sah?
+In general, pionul este promovat intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari in sah.
+In ce este promovat pionul in general in jocul de sah?
+In general, pionul este promovat intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari in jocul de sah.
+In ce este promovat pionul in general in partida de sah?
+In general, pionul este promovat intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari in partida de sah.
+In ce este promovat pionul in mod normal in sah?
+In mod normal, pionul este promovat intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari in sah.
+In ce este promovat pionul in mod normal in jocul de sah?
+In mod normal, pionul este promovat intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari in jocul de sah.
+In ce este promovat pionul in mod normal in partida de sah?
+In mod normal, pionul este promovat intr o regina atunci cand ajunge in ultimul rand al tablei in timpul unei miscari in partida de sah.
